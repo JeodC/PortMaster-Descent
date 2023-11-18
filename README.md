@@ -41,3 +41,8 @@ Ini files d1x.ini and d2x.ini are configurable.
 
 ## Contributing
 Pull requests welcome. Testing ongoing in PortMaster Discord: https://discord.gg/FDg86YtReQ.
+
+## Thanks
+dfreivald for the original port structure
+Cebion for help in meeting portmaster standards
+Testers from the PortMaster Discord
