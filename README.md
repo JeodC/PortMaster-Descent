@@ -8,6 +8,8 @@ Filelist for full versions:
 descent/data  
 --descent.hog  
 --descent.pig  
+--chaos.hog (multiplayer, optional)  
+--chaos.msn (multiplayer, optional)  
 
 descent2/data  
 --alien1.pig  
