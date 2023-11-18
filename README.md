@@ -4,25 +4,25 @@ The MS-DOS games by Parallax Software ported with DXX-Rebirth v0.61.
 ## Installation
 Unzip to ports folder e.g. ```/roms/ports/```. Ready to play with shareware and demo files. To upgrade to full game, purchase on Steam/GOG and then add .hog and .pig files to descent/data and descent2/data.
 
-Filelist for full versions:
-descent/data
---descent.hog
---descent.pig
+Filelist for full versions:  
+descent/data 
+--descent.hog 
+--descent.pig 
 
-descent2/data
---alien1.pig
---alien2.pig
---descent2.ham
---descent2.hog
---descent2.s11
---descent2.s22
---fire.pig
---groupa.pig
---ice.pig
---water.pig
---intro-h.mvl (optional)
---other-h.mvl (optional)
---robots-h.mvl (optional)
+descent2/data  
+--alien1.pig  
+--alien2.pig  
+--descent2.ham  
+--descent2.hog  
+--descent2.s11  
+--descent2.s22  
+--fire.pig  
+--groupa.pig  
+--ice.pig  
+--water.pig  
+--intro-h.mvl (optional)  
+--other-h.mvl (optional)  
+--robots-h.mvl (optional)  
 
 
 ## Configuration
@@ -34,10 +34,10 @@ A Default pilot profile is preconfigured. For multiplayer, this pilot profile ca
 Ini files d1x.ini and d2x.ini are configurable.
 
 ## To-Do: QoL Changes
-[ ] Default controls (currently manually assigned by user / default pilot)
-[ ] GPToKeyB allow user to scroll through letters to create profile name and enter numbers for level select
-[ ] Hotkeys to skip movies (Descent 2 intro) 
-[ ] Cheats...somehow
+[ ] Default controls (currently manually assigned by user / default pilot)  
+[ ] GPToKeyB allow user to scroll through letters to create profile name and enter numbers for level select  
+[ ] Hotkeys to skip movies (Descent 2 intro)  
+[ ] Cheats...somehow  
 
 ## Contributing
 Pull requests welcome. Testing ongoing in PortMaster Discord: https://discord.gg/FDg86YtReQ.
