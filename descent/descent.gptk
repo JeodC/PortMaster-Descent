@@ -1,19 +1,23 @@
 back = esc
 start = enter
-a = x
-b = ctrl
-x = c
-y = space
-l1 = s
-l2 = f
-l3 = mouse_right
-r1 = w
-r2 = b
-r3 = shift
+
+a = right
+b = s
+x = w
+y = left
+
+l1 = mouse_left
+l2 = ,
+l3 = b
+r1 = mouse_right
+r2 = x
+r3 = f
+
 up = up
 down = down
 left = left
 right = right
+
 left_analog_up = up
 left_analog_down = down
 left_analog_left = left
