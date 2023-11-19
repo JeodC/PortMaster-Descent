@@ -2,16 +2,18 @@
   "version": 2,
   "name": "descent.zip",
   "items": [
-    "descent/"
+    "descent/",
+	"descent2/",
 	"descent.sh",
+	"descent2.sh"
   ],
   "items_opt": [],
   "attr": {
-    "title": "Descent",
+    "title": "Descent 1 & 2",
     "porter": [
       "PortMaster Team"
     ],
-    "desc": "A port of the 1995 DOS game Descent by Parallax Software. Comes with the shareware demo files. Provide your own full game files via GOG or Steam.",
+    "desc": "A port of the 1995 DOS game Descent and 1996 DOS game Descent 2 by Parallax Software. Comes with the shareware demo files. Provide your own full game files via GOG or Steam.",
     "inst": "Unzip to ports folder.  To update to full game, remove demo files from descent/Data and add DESCENT.HOG and DESCENT.PIG to descent/Data.",
     "genres": [
       "action",
