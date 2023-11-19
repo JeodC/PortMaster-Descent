@@ -35,8 +35,7 @@ Ini files d1x.ini and d2x.ini are configurable. It is recommended to not touch t
 
 GPtoKeyB is used instead of SDL Joystick controls. Keys can be configured by opening the descent.gptk file in a text editor. The file is commented with the default KBM controls to make modification easier.
 
-## To-Do: QoL Changes
-[ ] Default controls (currently manually assigned by user / default pilot)  
+## To-Do: QoL Changes 
 [ ] GPToKeyB allow user to scroll through letters to create profile name and enter numbers for level select  
 [x] Hotkeys to skip movies (Descent 2 intro)  
 [ ] Cheats...somehow  
