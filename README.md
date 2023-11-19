@@ -48,3 +48,4 @@ dfreivald for the original port structure
 Cebion for help in meeting portmaster standards  
 Testers from the PortMaster Discord  
 Parallax Software for the fantastic games  
+DXX-Rebirth Team for the fantastic wrapper (and screenshot)  
