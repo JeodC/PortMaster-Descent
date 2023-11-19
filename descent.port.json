@@ -20,7 +20,7 @@
       "adventure",
 	  "shooter"
     ],
-    "image": null,
+    "image": "descent.screenshot.png",
     "rtr": true,
     "exp": false,
     "runtime": null,
