@@ -31,14 +31,14 @@ descent2/data
 Addon sound files are in the data folders for both games. These files (sc55 and opl3) are both available on the dxx-rebirth website. dxxr-sc55-music.dxa is used by default. To use the opl3 file instead,
 add a file extension to the sc55-music file like ```d1xr-sc55-music.dxa.bak```.
 
-A Default pilot profile is preconfigured. For multiplayer, this pilot profile can be renamed or a new one created. If a new pilot is created, you will need to manually assign your joystick controls in the game options. Devices without analog sticks will need to reconfigure controls anyway.
+Ini files d1x.ini and d2x.ini are configurable. It is recommended to not touch the Controls section of the ini files.
 
-Ini files d1x.ini and d2x.ini are configurable.
+GPtoKeyB is used instead of SDL Joystick controls. Keys can be configured by opening the descent.gptk file in a text editor. The file is commented with the default KBM controls to make modification easier.
 
 ## To-Do: QoL Changes
 [ ] Default controls (currently manually assigned by user / default pilot)  
 [ ] GPToKeyB allow user to scroll through letters to create profile name and enter numbers for level select  
-[ ] Hotkeys to skip movies (Descent 2 intro)  
+[x] Hotkeys to skip movies (Descent 2 intro)  
 [ ] Cheats...somehow  
 
 ## Contributing
