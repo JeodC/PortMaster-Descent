@@ -1,6 +1,5 @@
-# quit
-back = 311
-start = esc
+back = esc
+start = enter
 a = x
 b = ctrl
 x = c

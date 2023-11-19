@@ -25,8 +25,7 @@ export LD_LIBRARY_PATH=$GAMEDIR/lib:/usr/lib
 
 $ESUDO chmod 666 /dev/tty1
 $ESUDO chmod 666 /dev/uinput
-$GPTOKEYB "$GAME" &
-SDL_GAMECONTROLLERCONFIG="$sdl_controllerconfig" ./$GAME -hogdir Data 2>&1 | tee -a ./log.txt
+$GPTOKEYB "$GAME" -c "./descent.gptk" & ./$GAME -hogdir Data 2>&1 | tee -a ./log.txt
 $ESUDO kill -9 $(pidof gptokeyb)
 $ESUDO systemctl restart oga_events & 
 printf "\033c" >> /dev/tty1
