@@ -45,6 +45,28 @@ GPtoKeyB is used instead of SDL Joystick controls. Keys can be configured by ope
 
 A branch exists for SDL controls for those who prefer it.
 
+## Default Controls
+
+| Button | Action |
+|--|--| 
+|A|Fire Flare|
+|B|Reverse|
+|X|Forward|
+|Y|Deploy Bomb|
+|L1|Primary Fire|
+|L2|Scroll Primary Weapon|
+|R1|Secondary Fire|
+|R2|Scroll Secondary Weapon|
+|D-PAD UP|Up|
+|D-PAD DOWN|Down|
+|D-PAD LEFT|Left|
+|D-PAD RIGHT|Right|
+|LEFT ANALOG|Look / Camera|
+|RIGHT ANALOG UP|Accept / Fire Secondary Weapon|
+|RIGHT ANALOG DOWN|Accept|
+|RIGHT ANALOG LEFT/RIGHT|Bank Left / Right|
+|SELECT|Back / Escape|
+
 ## To-Do: QoL Changes 
 [ ] GPToKeyB allow user to scroll through letters to create profile name and enter numbers for level select  
 [x] Hotkeys to skip movies (Descent 2 intro)  
