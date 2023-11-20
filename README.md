@@ -1,6 +1,8 @@
 # Descent 1/2 For PortMaster
 The MS-DOS games by Parallax Software ported with DXX-Rebirth v0.61.
 
+![image](https://github.com/JeodC/Portmaster-Descent/assets/47716344/c7d3295f-d3bc-4735-ae25-c70224304012)
+
 ## Installation
 Unzip to ports folder e.g. ```/roms/ports/```. Ready to play with shareware and demo files. To upgrade to full game, purchase on Steam/GOG and then add .hog and .pig files to descent/data and descent2/data.
 
