@@ -8,12 +8,14 @@ Unzip to ports folder e.g. ```/roms/ports/```. Ready to play with shareware and 
 
 Filelist for full versions:  
 ├── descent/data  
-│   ├── descent.hog  
+│   ├── missions/    
+│   └── descent.hog  
 │   └── descent.pig  
 │   └── chaos.hog (multiplayer, optional)  
 │   └── chaos.msn (multiplayer, optional)  
 ├── descent2/data  
-│   ├── alien1.pig  
+│   ├── missions/    
+│   └── alien1.pig  
 │   └── alien2.pig  
 │   └── descent2.ham  
 │   └── descent2.hog  
