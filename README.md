@@ -66,6 +66,7 @@ A branch exists for SDL controls for those who prefer it.
 |RIGHT ANALOG DOWN|Accept|
 |RIGHT ANALOG LEFT/RIGHT|Bank Left / Right|
 |SELECT|Back / Escape|
+|START|Accept|
 
 ## To-Do: QoL Changes 
 [ ] GPToKeyB allow user to scroll through letters to create profile name and enter numbers for level select  
