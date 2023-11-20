@@ -55,8 +55,10 @@ A branch exists for SDL controls for those who prefer it.
 |Y|Deploy Bomb|
 |L1|Primary Fire|
 |L2|Scroll Primary Weapon|
+|L3|Not Set|
 |R1|Secondary Fire|
 |R2|Scroll Secondary Weapon|
+|R3|Not Set|
 |D-PAD UP|Up|
 |D-PAD DOWN|Down|
 |D-PAD LEFT|Left|
