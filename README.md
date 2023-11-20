@@ -17,13 +17,13 @@ Filelist for full versions:
 │   └── alien2.pig  
 │   └── descent2.ham  
 │   └── descent2.hog  
-│   ├── descent2.s11  
+│   └── descent2.s11  
 │   └── descent2.s22  
 │   └── fire.pig  
 │   └── groupa.pig  
 │   └── ice.pig  
 │   └── water.pig  
-│   ├── intro-h.mvl (optional)  
+│   └── intro-h.mvl (optional)  
 │   └── other-h.mvl (optional)  
 │   └── robots-h.mvl (optional)  
 
