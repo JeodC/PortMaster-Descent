@@ -1,6 +1,8 @@
 # Descent 1/2 For PortMaster
 The MS-DOS games by Parallax Software ported with DXX-Rebirth v0.61.
 
+![image](https://github.com/JeodC/Portmaster-Descent/assets/47716344/c7d3295f-d3bc-4735-ae25-c70224304012)
+
 ## Installation
 Unzip to ports folder e.g. ```/roms/ports/```. Ready to play with shareware and demo files. To upgrade to full game, purchase on Steam/GOG and then add .hog and .pig files to descent/data and descent2/data.
 
@@ -26,6 +28,9 @@ descent2/data
 --other-h.mvl (optional)  
 --robots-h.mvl (optional)  
 
+Descent I & II: Definitive Edition came with some extra content not available on GOG or Steam. These include Levels of the World (Descent 1), 29 Bonus Levels by Parallax Software (Descent 1), and the Descent 2: Vertigo expansion pack. This extra content can be placed in the data/missions folder for both Descent and Descent 2. If done correctly you'll see a new submenu when selecting New Game.
+
+<img src="https://github.com/JeodC/Portmaster-Descent/assets/47716344/2bb314e7-6365-458e-9568-739c31eef983" width="300" height="300"/>
 
 ## Configuration
 Addon sound files are in the data folders for both games. These files (sc55 and opl3) are both available on the dxx-rebirth website. dxxr-sc55-music.dxa is used by default. To use the opl3 file instead,
@@ -41,11 +46,11 @@ GPtoKeyB is used instead of SDL Joystick controls. Keys can be configured by ope
 [ ] Cheats...somehow  
 
 ## Contributing
-Pull requests welcome. Testing ongoing in PortMaster Discord: https://discord.gg/FDg86YtReQ.
+Pull requests welcome. Testing ongoing in <a href="https://discord.gg/FDg86YtReQ">PortMaster Discord</a>.
 
 ## Thanks
 dfreivald for the original port structure  
 Cebion for help in meeting portmaster standards  
 Testers from the PortMaster Discord  
 Parallax Software for the fantastic games  
-DXX-Rebirth Team for the fantastic wrapper (and screenshot)  
+<a href="https://www.dxx-rebirth.com/">DXX-Rebirth</a> Team for the fantastic wrapper (and screenshots)  
