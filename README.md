@@ -7,12 +7,12 @@ The MS-DOS games by Parallax Software ported with DXX-Rebirth v0.61.
 Unzip to ports folder e.g. ```/roms/ports/```. Ready to play with shareware and demo files. To upgrade to full game, purchase on Steam/GOG and then add .hog and .pig files to descent/data and descent2/data.
 
 Filelist for full versions:  
-├── descent/data
+├── descent/data  
 │   ├── descent.hog  
 │   └── descent.pig  
 │   └── chaos.hog (multiplayer, optional)  
 │   └── chaos.msn (multiplayer, optional)  
-├── descent2/data
+├── descent2/data  
 │   ├── alien1.pig  
 │   └── alien2.pig  
 │   └── descent2.ham  
