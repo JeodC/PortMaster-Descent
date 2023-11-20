@@ -46,7 +46,7 @@ GPtoKeyB is used instead of SDL Joystick controls. Keys can be configured by ope
 [ ] Cheats...somehow  
 
 ## Contributing
-Pull requests welcome. Testing ongoing in PortMaster Discord: https://discord.gg/FDg86YtReQ.
+Pull requests welcome. Testing ongoing in <a href="https://discord.gg/FDg86YtReQ">PortMaster Discord</a>.
 
 ## Thanks
 dfreivald for the original port structure  
