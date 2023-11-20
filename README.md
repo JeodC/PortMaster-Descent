@@ -51,6 +51,8 @@ GPtoKeyB is used instead of SDL Joystick controls. Keys can be configured by ope
 ## Contributing
 Pull requests welcome. Testing ongoing in <a href="https://discord.gg/FDg86YtReQ">PortMaster Discord</a>.
 
+Since DXX-Rebirth is used as the wrapper for the games, you may encounter some bugs in gameplay that are beyond our control. Please use the <a href="https://github.com/dxx-rebirth/dxx-rebirth">DXX-Rebirth Github Repo</a> to track and report issues.
+
 ## Thanks
 dfreivald for the original port structure  
 Cebion for help in meeting portmaster standards  
