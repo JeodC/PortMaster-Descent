@@ -55,15 +55,17 @@ A branch exists for SDL controls for those who prefer it.
 |Y|Deploy Bomb|
 |L1|Primary Fire|
 |L2|Scroll Primary Weapon|
+|L3|Not Set|
 |R1|Secondary Fire|
 |R2|Scroll Secondary Weapon|
+|R3|Not Set|
 |D-PAD UP|Up|
 |D-PAD DOWN|Down|
 |D-PAD LEFT|Left|
 |D-PAD RIGHT|Right|
 |LEFT ANALOG|Look / Camera|
-|RIGHT ANALOG UP|Accept / Fire Secondary Weapon|
-|RIGHT ANALOG DOWN|Accept|
+|RIGHT ANALOG UP|Toggle Menu Option / Fire Secondary Weapon|
+|RIGHT ANALOG DOWN|Not Set|
 |RIGHT ANALOG LEFT/RIGHT|Bank Left / Right|
 |SELECT|Back / Escape|
 |START|Accept|
