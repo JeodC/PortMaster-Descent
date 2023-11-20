@@ -7,26 +7,25 @@ The MS-DOS games by Parallax Software ported with DXX-Rebirth v0.61.
 Unzip to ports folder e.g. ```/roms/ports/```. Ready to play with shareware and demo files. To upgrade to full game, purchase on Steam/GOG and then add .hog and .pig files to descent/data and descent2/data.
 
 Filelist for full versions:  
-descent/data  
---descent.hog  
---descent.pig  
---chaos.hog (multiplayer, optional)  
---chaos.msn (multiplayer, optional)  
-
-descent2/data  
---alien1.pig  
---alien2.pig  
---descent2.ham  
---descent2.hog  
---descent2.s11  
---descent2.s22  
---fire.pig  
---groupa.pig  
---ice.pig  
---water.pig  
---intro-h.mvl (optional)  
---other-h.mvl (optional)  
---robots-h.mvl (optional)  
+├── descent/data
+│   ├── descent.hog  
+│   └── descent.pig  
+│   └── chaos.hog (multiplayer, optional)  
+│   └── chaos.msn (multiplayer, optional)  
+├── descent2/data
+│   ├── alien1.pig  
+│   └── alien2.pig  
+│   └── descent2.ham  
+│   └── descent2.hog  
+│   ├── descent2.s11  
+│   └── descent2.s22  
+│   └── fire.pig  
+│   └── groupa.pig  
+│   └── ice.pig  
+│   └── water.pig  
+│   ├── intro-h.mvl (optional)  
+│   └── other-h.mvl (optional)  
+│   └── robots-h.mvl (optional)  
 
 Descent I & II: Definitive Edition came with some extra content not available on GOG or Steam. These include Levels of the World (Descent 1), 29 Bonus Levels by Parallax Software (Descent 1), and the Descent 2: Vertigo expansion pack. This extra content can be placed in the data/missions folder for both Descent and Descent 2. If done correctly you'll see a new submenu when selecting New Game.
 
