@@ -72,7 +72,7 @@ A branch exists for SDL controls for those who prefer it.
 
 ## To-Do: QoL Changes 
 [ ] GPToKeyB allow user to scroll through letters to create profile name and enter numbers for level select  
-[x] Hotkeys to skip movies (Descent 2 intro)  
+[ ] Better default control assignments to keys labeled Not Set
 [ ] Cheats...somehow  
 
 ## Contributing
