@@ -72,7 +72,7 @@ A branch exists for SDL controls for those who prefer it.
 
 ## To-Do: QoL Changes 
 [ ] GPToKeyB allow user to scroll through letters to create profile name and enter numbers for level select  
-[ ] Better default control assignments
+[ ] Better default control assignments  
 [ ] Cheats...somehow  
 
 ## Contributing
