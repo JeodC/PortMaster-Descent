@@ -83,6 +83,6 @@ Since DXX-Rebirth is used as the wrapper for the games, you may encounter some b
 ## Thanks
 Anberports Team for the original port structure  
 Cebion for help in meeting portmaster standards  
-Testers from the PortMaster Discord  
+Testers and Devs from the PortMaster Discord  
 Parallax Software for the fantastic games  
 <a href="https://www.dxx-rebirth.com/">DXX-Rebirth</a> Team for the fantastic wrapper (and screenshots)  
