@@ -81,7 +81,7 @@ Pull requests welcome. Testing ongoing in <a href="https://discord.gg/FDg86YtReQ
 Since DXX-Rebirth is used as the wrapper for the games, you may encounter some bugs in gameplay that are beyond our control. Please use the <a href="https://github.com/dxx-rebirth/dxx-rebirth">DXX-Rebirth Github Repo</a> to track and report issues.
 
 ## Thanks
-dfreivald for the original port structure  
+Anberports Team for the original port structure  
 Cebion for help in meeting portmaster standards  
 Testers from the PortMaster Discord  
 Parallax Software for the fantastic games  
