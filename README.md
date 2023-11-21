@@ -30,6 +30,7 @@ Filelist for full versions:
 │   └── intro-h.mvl (optional)  
 │   └── other-h.mvl (optional)  
 │   └── robots-h.mvl (optional)  
+│   └── d2x-h.mvl (optional)  
 
 Descent I & II: Definitive Edition came with some extra content not available on GOG or Steam. These include Levels of the World (Descent 1), 29 Bonus Levels by Parallax Software (Descent 1), and the Descent 2: Vertigo expansion pack. This extra content can be placed in the data/missions folder for both Descent and Descent 2. If done correctly you'll see a new submenu when selecting New Game.
 
