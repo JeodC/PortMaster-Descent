@@ -6,7 +6,7 @@ The MS-DOS games by Parallax Software ported with DXX-Rebirth v0.61.
 ## Description
 Play as a mercenary sent into planetary mines to destroy them before a computer virus spreads! You'll fly through 3D mazes in search of keycards to gain access to each level's reactor--which, once destroyed, will begin a self-destruct! Make sure you know where the exit hatch is! It will only open when the reactor is destroyed. Oh, and watch out for those virus-infected robots. They'll shoot at you.
 
-![image](https://github.com/JeodC/Portmaster-Descent/assets/47716344/730189b3-fa8c-4844-a4e9-cf7266e138a2)
+<img src="https://github.com/JeodC/Portmaster-Descent/assets/47716344/730189b3-fa8c-4844-a4e9-cf7266e138a2" width="320" height="240"/>
 
 
 ## Installation
