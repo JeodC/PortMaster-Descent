@@ -43,9 +43,6 @@ Descent I & II: Definitive Edition came with some extra content not available on
 <img src="https://github.com/JeodC/Portmaster-Descent/assets/47716344/2bb314e7-6365-458e-9568-739c31eef983" width="300" height="300"/>
 
 ## Configuration
-Addon sound files are in the data folders for both games. These files (sc55 and opl3) are both available on the dxx-rebirth website. dxxr-sc55-music.dxa is used by default. To use the opl3 file instead,
-add a file extension to the sc55-music file like ```d1xr-sc55-music.dxa.bak```.
-
 Ini files d1x.ini and d2x.ini are configurable. It is recommended to not touch the Controls section of the ini files.
 
 Keyboard and mouse emulation is used via GPtoKeyB. The file descent.gptk can be opened and modified as user sees fit, but the current assigned keys are recommended for level select. Instead, controls should be modified within the games themselves via Options->Configure Keyboard.
