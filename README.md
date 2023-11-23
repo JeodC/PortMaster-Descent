@@ -50,7 +50,7 @@ Ini files d1x.ini and d2x.ini are configurable. It is recommended to not touch t
 
 Keyboard and mouse emulation is used via GPtoKeyB. The file descent.gptk can be opened and modified as user sees fit, but the current assigned keys are recommended for level select. Instead, controls should be modified within the games themselves via Options->Configure Keyboard.
 
-## Default Controls
+## Default Gameplay Controls
 
 | Button | Action |
 |--|--| 
@@ -72,6 +72,18 @@ Keyboard and mouse emulation is used via GPtoKeyB. The file descent.gptk can be 
 |RIGHT ANALOG UP|Not Set|
 |SELECT|Back / Escape|
 |START|Start / Accept / Enter|
+
+## Level Select Controls
+
+| Button | Action |
+|--|--| 
+|B|0|
+|Y|1|
+|X|2|
+|L1|3|
+|L2|4|
+|R1|5|
+|R2|6|
 
 ## To-Do: QoL Changes 
 [ ] Cheats...somehow  
