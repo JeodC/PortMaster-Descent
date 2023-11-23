@@ -48,38 +48,32 @@ add a file extension to the sc55-music file like ```d1xr-sc55-music.dxa.bak```.
 
 Ini files d1x.ini and d2x.ini are configurable. It is recommended to not touch the Controls section of the ini files.
 
-GPtoKeyB is used instead of SDL Joystick controls. Keys can be configured by opening the descent.gptk file in a text editor. The file is commented with the default KBM controls to make modification easier.
-
-A branch exists for SDL controls for those who prefer it.
+Keyboard and mouse emulation is used via GPtoKeyB. The file descent.gptk can be opened and modified as user sees fit, but the current assigned keys are recommended for level select. Instead, controls should be modified within the games themselves via Options->Configure Keyboard.
 
 ## Default Controls
 
 | Button | Action |
 |--|--| 
-|A|Fire Flare|
-|B|Reverse|
-|X|Forward|
-|Y|Deploy Bomb|
-|L1|Primary Fire|
-|L2|Scroll Primary Weapon|
+|A|Primary Fire|
+|B|Deploy Bomb|
+|X|Secondary Fire|
+|Y|Fire Flare|
+|L1|Reverse|
+|L2|Cycle Secondary Weapon|
 |L3|Not Set|
-|R1|Secondary Fire|
-|R2|Scroll Secondary Weapon|
+|R1|Accelerate|
+|R2|Scroll Primary Weapon|
 |R3|Not Set|
-|D-PAD UP|Up|
-|D-PAD DOWN|Down|
-|D-PAD LEFT|Left|
-|D-PAD RIGHT|Right|
-|LEFT ANALOG|Look / Camera|
-|RIGHT ANALOG UP|Toggle Menu Option / Fire Secondary Weapon|
-|RIGHT ANALOG DOWN|Not Set|
-|RIGHT ANALOG LEFT/RIGHT|Bank Left / Right|
+|D-PAD UP|Look Up|
+|D-PAD DOWN|Look Down|
+|D-PAD LEFT|Turn Left|
+|D-PAD RIGHT|Turn Right|
+|LEFT ANALOG|Look Around|
+|RIGHT ANALOG UP|Not Set|
 |SELECT|Back / Escape|
-|START|Accept|
+|START|Start / Accept / Enter|
 
 ## To-Do: QoL Changes 
-[ ] GPToKeyB allow user to scroll through letters to create profile name and enter numbers for level select  
-[ ] Better default control assignments  
 [ ] Cheats...somehow  
 
 ## Contributing
