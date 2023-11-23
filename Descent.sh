@@ -12,6 +12,8 @@ source $controlfolder/control.txt
 
 get_controls
 
+source $controlfolder/device_info.txt
+
 GAME="d1x-rebirth"
 GAMEDIR="/$directory/ports/descent"
 
@@ -22,6 +24,10 @@ ln -sfv $GAMEDIR/conf/.$GAME ~/
 
 export LIBGL_FB=4
 export LD_LIBRARY_PATH=$GAMEDIR/libs:/usr/libs
+
+# Edit .cfg file
+sed -i "s/^ResolutionX=640/ResolutionX=$DISPLAY_WIDTH/g" $GAMEDIR/conf/.$GAME/descent.cfg
+sed -i "s/^ResolutionY=480/ResolutionY=$DISPLAY_HEIGHT/g" $GAMEDIR/conf/.$GAME/descent.cfg
 
 $ESUDO chmod 666 /dev/tty1
 $ESUDO chmod 666 /dev/uinput
