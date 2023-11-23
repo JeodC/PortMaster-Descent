@@ -1,8 +1,4 @@
-[D1X Options]
-[weapon reorder]
-primary=0x4,0x3,0x2,0x1,0x0,0xff
-secondary=0x4,0x3,0x1,0x0,0xff,0x2
-[end]
+[D2X OPTIONS]
 [keyboard]
 sensitivity0=16
 sensitivity1=16
@@ -11,12 +7,12 @@ sensitivity3=16
 sensitivity4=16
 [end]
 [joystick]
-sensitivity0=6
-sensitivity1=6
-sensitivity2=6
-sensitivity3=6
-sensitivity4=6
-sensitivity5=6
+sensitivity0=8
+sensitivity1=8
+sensitivity2=8
+sensitivity3=8
+sensitivity4=8
+sensitivity5=8
 linearity0=0
 linearity1=0
 linearity2=0
@@ -66,14 +62,15 @@ fsindi=1
 0=0xb,0xff,0xff
 [end]
 [cockpit]
-mode=0
 hud=0
 rettype=0
 retrgba=0,32,0,0
 retsize=0
 [end]
 [toggles]
-bombgauge=1
+escorthotkeys=1
+thiefabsent=0
+thiefnoenergyweapons=0
 autosaveinterval=0
 persistentdebris=0
 prshot=0
@@ -89,8 +86,8 @@ respawnkey=0
 mouselook=0
 [end]
 [graphics]
-alphaeffects=0
-dynlightcolor=0
+alphaeffects=1
+dynlightcolor=1
 [end]
 [plx version]
 plx version=0.61.0
