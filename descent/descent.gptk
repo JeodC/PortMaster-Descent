@@ -1,29 +1,3 @@
-#DESCENT DEFAULT KBM CONTROL SCHEME
-
-# Pitch Forward:			Up Arrow
-# Pitch Backward:			Down Arrow
-# Turn Left:				Left Arrow
-# Turn Right:				Right Arrow
-# Slide Left:				A
-# Slide Right:				D
-# Slide Up:					C
-# Slide Down:				X
-# Bank Left:				Q
-# Bank Right:				E
-# Primary Weapon: 			Mouse_Left / R-Ctrl
-# Secondary Weapon: 		Mouse_Right / Space
-# Cycle Primary Wpn: 		,
-# Cycle Secondary Wpn: 		.
-# Fire Flare:				F
-# Drop Bomb:				B
-# Rear View:				R
-# Automap:					TAB
-# Accelerate:				W
-# Reverse:					S
-# Afterburner:				L-Shift
-# Headlight:				H
-# Energy->Shield:			T
-
 #GAME SYSTEM KEYS
 # Abort Game:				Esc
 # Show Game Log:			Shift-Esc
