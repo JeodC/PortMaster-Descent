@@ -1,7 +1,13 @@
 # Descent 1/2 For PortMaster
 The MS-DOS games by Parallax Software ported with DXX-Rebirth v0.61.
 
-![image](https://github.com/JeodC/Portmaster-Descent/assets/47716344/c7d3295f-d3bc-4735-ae25-c70224304012)
+![image](https://github.com/JeodC/Portmaster-Descent/assets/47716344/a4565b0e-88c8-4dad-b00d-1b02b35e8a71)
+
+## Description
+Play as a mercenary sent into planetary mines to destroy them before a computer virus spreads! You'll fly through 3D mazes in search of keycards to gain access to each level's reactor--which, once destroyed, will begin a self-destruct! Make sure you know where the exit hatch is! It will only open when the reactor is destroyed. Oh, and watch out for those virus-infected robots. They'll shoot at you.
+
+<img src="https://github.com/JeodC/Portmaster-Descent/assets/47716344/730189b3-fa8c-4844-a4e9-cf7266e138a2" width="320" height="240"/>
+
 
 ## Installation
 Unzip to ports folder e.g. ```/roms/ports/```. Ready to play with shareware and demo files. To upgrade to full game, purchase on Steam/GOG and then add .hog and .pig files to descent/data and descent2/data.
