@@ -2,23 +2,23 @@
   "version": 2,
   "name": "descent.zip",
   "items": [
-    "descent/",
-	"descent2/",
-	"descent.sh",
-	"descent2.sh"
+    "descent.sh",
+    "descent/"
   ],
   "items_opt": [],
   "attr": {
-    "title": "Descent 1 & 2",
+    "title": "Descent",
     "porter": [
-      "PortMaster Team"
+      "Jeod",
+      "Cebion",
+      "romadu",
+      "Tekkenfede",
+      "krishenriksen"
     ],
-    "desc": "A port of the 1995 DOS game Descent and 1996 DOS game Descent 2 by Parallax Software. Comes with the shareware demo files. Provide your own full game files via GOG or Steam.",
-    "inst": "Unzip to ports folder.  To update to full game, remove demo files from descent/Data and add DESCENT.HOG and DESCENT.PIG to descent/Data.",
+    "desc": "Play as a mercenary sent into planetary mines to destroy them before a computer virus spreads! You'll fly through 3D mazes in search of keycards to gain access to each level's reactor--which, once destroyed, will begin a self-destruct! Make sure you know where the exit hatch is! It will only open when the reactor is destroyed. Oh, and watch out for those virus-infected robots. They'll shoot at you.\n\nIncludes shareware/demo files. See instructions to use full version.",
+    "inst": "Ready to play with shareware and demo files. To upgrade to full game, purchase on Steam/GOG and then add .hog and .pig files to descent/data and descent2/data.",
     "genres": [
-      "action",
-      "adventure",
-	  "shooter"
+      "fps"
     ],
     "image": "descent.screenshot.png",
     "rtr": true,

@@ -1,14 +1,6 @@
 # Descent 1/2 For PortMaster
 The MS-DOS games by Parallax Software ported with DXX-Rebirth v0.61.
 
-![image](https://github.com/JeodC/Portmaster-Descent/assets/47716344/a4565b0e-88c8-4dad-b00d-1b02b35e8a71)
-
-## Description
-Play as a mercenary sent into planetary mines to destroy them before a computer virus spreads! You'll fly through 3D mazes in search of keycards to gain access to each level's reactor--which, once destroyed, will begin a self-destruct! Make sure you know where the exit hatch is! It will only open when the reactor is destroyed. Oh, and watch out for those virus-infected robots. They'll shoot at you.
-
-<img src="https://github.com/JeodC/Portmaster-Descent/assets/47716344/730189b3-fa8c-4844-a4e9-cf7266e138a2" width="320" height="240"/>
-
-
 ## Installation
 Unzip to ports folder e.g. ```/roms/ports/```. Ready to play with shareware and demo files. To upgrade to full game, purchase on Steam/GOG and then add .hog and .pig files to descent/data and descent2/data.
 
@@ -39,8 +31,6 @@ Filelist for full versions:
 │   └── d2x-h.mvl (optional)  
 
 Descent I & II: Definitive Edition came with some extra content not available on GOG or Steam. These include Levels of the World (Descent 1), 29 Bonus Levels by Parallax Software (Descent 1), and the Descent 2: Vertigo expansion pack. This extra content can be placed in the data/missions folder for both Descent and Descent 2. If done correctly you'll see a new submenu when selecting New Game.
-
-<img src="https://github.com/JeodC/Portmaster-Descent/assets/47716344/2bb314e7-6365-458e-9568-739c31eef983" width="300" height="300"/>
 
 ## Configuration
 Ini files d1x.ini and d2x.ini are configurable. It is recommended to not touch the Controls section of the ini files.
@@ -85,17 +75,11 @@ Keyboard and mouse emulation is used via GPtoKeyB. The file descent.gptk can be 
 |SELECT + X|8|
 |SELECT + Y|9|
 
-## To-Do: QoL Changes 
-[ ] Cheats...somehow  
-
-## Contributing
-Pull requests welcome. Testing ongoing in <a href="https://discord.gg/FDg86YtReQ">PortMaster Discord</a>.
-
-Since DXX-Rebirth is used as the wrapper for the games, you may encounter some bugs in gameplay that are beyond our control. Please use the <a href="https://github.com/dxx-rebirth/dxx-rebirth">DXX-Rebirth Github Repo</a> to track and report issues.
-
 ## Thanks
-Anberports Team for the original port structure  
-Cebion for help in meeting portmaster standards  
+Cebion  
+romadu  
+Tekkenfede  
+krishenriksen  
 Testers and Devs from the PortMaster Discord  
-Parallax Software for the fantastic games  
-<a href="https://www.dxx-rebirth.com/">DXX-Rebirth</a> Team for the fantastic wrapper (and screenshots)  
+Parallax Software
+<a href="https://www.dxx-rebirth.com/">DXX-Rebirth</a> Team  
