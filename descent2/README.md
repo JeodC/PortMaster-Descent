@@ -76,6 +76,7 @@ You may rename Player.plr and Player.plx in the conf folder for a different mult
 |SELECT+  B|7|
 |SELECT + X|8|
 |SELECT + Y|9|
+|D-PAD Left|Backspace|
 
 ## Thanks
 Cebion  

@@ -74,6 +74,7 @@ Keyboard and mouse emulation is used via GPtoKeyB. The file descent.gptk can be 
 |SELECT+  B|7|
 |SELECT + X|8|
 |SELECT + Y|9|
+|D-PAD Left|Backspace|
 
 ## Thanks
 Cebion  

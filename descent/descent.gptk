@@ -1,25 +1,3 @@
-#GAME SYSTEM KEYS
-# Abort Game:				Esc
-# Show Game Log:			Shift-Esc
-# Help Menu:				F1
-# Options Menu:				F2
-# Save/Load Game:			Alt-F2/F3
-# Quicksave/Load:			Alt-Shift-F2/F3
-# Switch Cockpit Modes:		F3
-# Drop Marker:				F4
-# Toggle Recording:			F5
-# Switch HUD Modes:			Alt-F7
-# Pause:					Pause
-# Screenshot:				Printscreen
-# Select Primary Wpn:		1-5
-# Select Secondary Wpn: 	6-0
-# Cycle Left/Right Window:	Shift-F1/F2
-# Menu Affirmative:			Space
-
-# GPtoKeyB Documentation: http://portmaster.games/gptokeyb-documentation.html
-
-###################################
-
 # Universal controls, needed for menu -- DO NOT CHANGE
 back = esc
 start = enter
