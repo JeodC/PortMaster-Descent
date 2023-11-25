@@ -37,6 +37,8 @@ Ini files d1x.ini and d2x.ini are configurable. It is recommended to not touch t
 
 Keyboard and mouse emulation is used via GPtoKeyB. The file descent.gptk can be opened and modified as user sees fit, but the current assigned keys are recommended for level select. Instead, controls should be modified within the games themselves via Options->Configure Keyboard.
 
+You may rename Player.plr and Player.plx in the conf folder for a different multiplayer display name. If you do so, please modify the d1x.ini or d2x.ini file to reflect this change.
+
 ## Default Gameplay Controls
 
 | Button | Action |
