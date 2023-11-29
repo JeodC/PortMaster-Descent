@@ -58,7 +58,7 @@ You may rename Player.plr and Player.plx in the conf folder for a different mult
 |D-PAD LEFT|Turn Left|
 |D-PAD RIGHT|Turn Right|
 |LEFT ANALOG|Look Around|
-|RIGHT ANALOG UP|Not Set|
+|RIGHT ANALOG|Not Set|
 |SELECT|Back / Escape|
 |START|Start / Accept / Enter|
 

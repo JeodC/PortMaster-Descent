@@ -84,6 +84,7 @@ cycleautoselectonly=0
 cloakinvultimer=0
 respawnkey=0
 mouselook=0
+pitchlock=0
 [end]
 [graphics]
 alphaeffects=1

@@ -56,7 +56,7 @@ Keyboard and mouse emulation is used via GPtoKeyB. The file descent.gptk can be 
 |D-PAD LEFT|Turn Left|
 |D-PAD RIGHT|Turn Right|
 |LEFT ANALOG|Look Around|
-|RIGHT ANALOG UP|Not Set|
+|RIGHT ANALOG|Not Set|
 |SELECT|Back / Escape|
 |START|Start / Accept / Enter|
 

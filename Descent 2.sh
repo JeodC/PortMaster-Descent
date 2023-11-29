@@ -25,6 +25,15 @@ ln -sfv $GAMEDIR/conf/.$GAME ~/
 export LIBGL_FB=4
 export LD_LIBRARY_PATH=$GAMEDIR/libs:/usr/libs
 
+# Add some cheats
+if [ ! -f "./cheats.txt" ]; then
+    echo "Error: Cheats file not found. No cheats will be used." > /dev/tty0
+else
+	CHEATS=$(sed -n -E '/^[^#]*=[[:space:]]*1([^0-9#]|$)/s/(=[[:space:]]*1[^0-9#]*)//p' ./cheats.txt | tr -d '\n')
+fi
+
+export TEXTINPUTPRESET=$CHEATS
+
 # Edit .cfg file
 sed -i "s/^ResolutionX=640/ResolutionX=$DISPLAY_WIDTH/g" $GAMEDIR/conf/.$GAME/descent.cfg
 sed -i "s/^ResolutionY=480/ResolutionY=$DISPLAY_HEIGHT/g" $GAMEDIR/conf/.$GAME/descent.cfg
