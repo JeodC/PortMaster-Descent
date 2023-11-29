@@ -39,6 +39,8 @@ Keyboard and mouse emulation is used via GPtoKeyB. The file descent.gptk can be 
 
 You may rename Player.plr and Player.plx in the conf folder for a different multiplayer display name. If you do so, please modify the d1x.ini or d2x.ini file to reflect this change.
 
+Cheats can be found and modified in cheats.txt. To turn a cheat on, change the 0 to 1. To turn it off, change 1 to 0. The cheats listed in cheats.txt only work with the full version of the game. The shareware demo has cheats, but you must locate and add them yourself.
+
 ## Default Gameplay Controls
 
 | Button | Action |
