@@ -27,7 +27,7 @@ export LD_LIBRARY_PATH=$GAMEDIR/libs:/usr/libs
 
 # Add some cheats
 if [ ! -f "./cheats.txt" ]; then
-    echo "Error: Cheats file not found. No cheats will be used." > /dev/tty0
+	echo "Error: Cheats file not found. No cheats will be used." > /dev/tty0
 else
 	CHEATS=$(sed -n -E '/^[^#]*=[[:space:]]*1([^0-9#]|$)/s/(=[[:space:]]*1[^0-9#]*)//p' ./cheats.txt | tr -d '\n')
 fi
