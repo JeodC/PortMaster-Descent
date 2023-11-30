@@ -40,7 +40,7 @@ sed -i "s/^ResolutionY=480/ResolutionY=$DISPLAY_HEIGHT/g" $GAMEDIR/conf/.$GAME/d
 
 $ESUDO chmod 666 /dev/tty1
 $ESUDO chmod 666 /dev/uinput
-$GPTOKEYB "$GAME" -c "./descent2.gptk" & ./$GAME -hogdir Data 2>&1 | tee -a ./log.txt
+$GPTOKEYB "$GAME" -c "./descent2.gptk" & ./$GAME -hogdir data 2>&1 | tee -a ./log.txt
 $ESUDO kill -9 $(pidof gptokeyb)
 $ESUDO systemctl restart oga_events & 
 printf "\033c" >> /dev/tty1
