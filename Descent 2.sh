@@ -34,10 +34,11 @@ fi
 
 export TEXTINPUTPRESET=$CHEATS
 
-# Edit .cfg file
+# Edit .cfg file to correct resolution
 sed -i "s/^ResolutionX=640/ResolutionX=$DISPLAY_WIDTH/g" $GAMEDIR/conf/.$GAME/descent.cfg
 sed -i "s/^ResolutionY=480/ResolutionY=$DISPLAY_HEIGHT/g" $GAMEDIR/conf/.$GAME/descent.cfg
 
+# Run the game
 $ESUDO chmod 666 /dev/tty1
 $ESUDO chmod 666 /dev/uinput
 $GPTOKEYB "$GAME" -c "./descent2.gptk" & ./$GAME -hogdir data 2>&1 | tee -a ./log.txt
