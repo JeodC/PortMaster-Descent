@@ -63,6 +63,7 @@ Cheats can be found and modified in cheats.txt. To turn a cheat on, change the 0
 |RIGHT ANALOG|Not Set|
 |SELECT|Back / Escape|
 |START|Start / Accept / Enter|
+|START + LEFT|Activate Cheats|
 
 ## Level Select Controls
 
