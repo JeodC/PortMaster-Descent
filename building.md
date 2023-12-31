@@ -28,6 +28,6 @@ Note: The folder /mnt/data/arm64 can be modified, for example to /mnt/data/bookw
 
 Retrieve your build from \\wsl.localhost\Ubuntu\mnt\data\arm64\dxx-rebirth\build
 
-## Optional Steps
+### Optional Steps
 4. 	cd build
 5. 	strip d1x-rebirth / strip d2sx-rebirth
