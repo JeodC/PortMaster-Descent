@@ -1,7 +1,7 @@
 # Introduction
-This is a guide for building dxx-rebirth from source for RK3326 devices (or anything that uses linux/arm64) using Windows Subsystem for Linux. This guide works as of 12/30/2023.
+Descent 1 & 2 using DXX-Rebirth, ported to RK3326 devices.
 
-# Building
+# Building from source dxx-rebirth
 
 ## Install WSL and chroot
 1. 	Install wsl and ubuntu (use wsl2)
