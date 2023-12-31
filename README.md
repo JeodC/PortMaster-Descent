@@ -1,5 +1,5 @@
 # Introduction
-Descent 1 & 2 using DXX-Rebirth, ported to RK3326 and RK3566 devices. Runs via <a href="https://portmaster.games/">PortMaster</a>. Current build not compatible with ArkOS.
+Descent 1 & 2 using DXX-Rebirth, ported to RK3326 and RK3566 devices. Runs via <a href="https://portmaster.games/">PortMaster</a>. Current build requires GLIBC_2.32 and GLIBCXX_3.4.29 and is therefore not compatible with ArkOS.
 
 # Building from source dxx-rebirth
 
