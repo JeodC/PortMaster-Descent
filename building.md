@@ -13,7 +13,7 @@ This is a guide for building dxx-rebirth from source for RK3326 devices using Wi
 7.	```sudo docker run --rm --privileged multiarch/qemu-user-static --reset -p yes```
 8.	```sudo qemu-debootstrap --arch arm64 bookworm /mnt/data/arm64 http://deb.debian.org/debian/```
 
-Note: Bookworm uses gcc-12. For compatibility with older systems such as ArkOS, use bullseye and modify the dxx-rebirth source code.
+Note: Bookworm uses gcc-12. For compatibility with older systems such as ArkOS, use bullseye and modify the dxx-rebirth source code.  
 Note: The folder /mnt/data/arm64 can be modified, for example to /mnt/data/bookworm-arm64. This is useful if you like to maintain multiple chroots.
 
 ## Enter chroot and install essentials
