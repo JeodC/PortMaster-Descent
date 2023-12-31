@@ -1,5 +1,5 @@
 # Introduction
-Descent 1 & 2 using DXX-Rebirth, ported to RK3326 devices.
+Descent 1 & 2 using DXX-Rebirth, ported to RK3326 and RK3566 devices. Runs via <a href="https://portmaster.games/"PortMaster</a>.
 
 # Building from source dxx-rebirth
 
