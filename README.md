@@ -15,7 +15,7 @@ Descent 1 & 2 using DXX-Rebirth, ported to RK3326 and RK3566 devices. Runs via <
 
 Note: Bookworm uses gcc-12. For compatibility with older systems such as ArkOS, use bullseye and modify the dxx-rebirth source code.  
 
-Note: The folder /mnt/data/arm64 can be modified, for example to /mnt/data/bookworm-arm64. This is useful if you like to maintain multiple chroots.
+Note: The folder ```/mnt/data/arm64``` can be modified, for example to /mnt/data/bookworm-arm64. This is useful if you like to maintain multiple chroots.
 
 ## Enter chroot and install essentials
 1. 	```sudo chroot /mnt/data/arm64/```
