@@ -1,16 +1,6 @@
 # Descent 1/2 For PortMaster
 The MS-DOS games by Parallax Software ported with DXX-Rebirth.
 
-## Compatibility
-ArkOS is NOT compatible with this port. Users will encounter the following error on attempting to run:
-```
-./d1x-rebirth: /lib/aarch64-linux-gnu/libstdc++.so.6: version GLIBCXX_3.4.29' not found (required by ./d1x-rebirth)
-./d1x-rebirth: /lib/aarch64-linux-gnu/libc.so.6: version GLIBC_2.34' not found (required by ./d1x-rebirth)
-./d1x-rebirth: /lib/aarch64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by ./d1x-rebirth) 
-```
-
-ArkOS only uses up to GLIBC 2.30 and as ArkOS is no longer maintained, this port is not compatible.
-
 ## Installation
 Unzip to ports folder e.g. ```/roms/ports/```. Ready to play with shareware and demo files. To upgrade to full game, purchase on Steam/GOG and then add .hog and .pig files to descent/data and descent2/data.
 
