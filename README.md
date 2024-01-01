@@ -1,5 +1,5 @@
 # Introduction
-Descent 1 & 2 using DXX-Rebirth, ported to RK3326 and RK3566 devices. Runs via <a href="https://portmaster.games/">PortMaster</a>. Current build requires GLIBC_2.32 and GLIBCXX_3.4.29 and is therefore not compatible with ArkOS.
+Descent 1 & 2 using DXX-Rebirth, ported to RK3326 and RK3566 devices. Runs via <a href="https://portmaster.games/">PortMaster</a>.
 
 # Building from source dxx-rebirth
 
@@ -23,7 +23,7 @@ Note: The folder ```/mnt/data/arm64``` can be modified, for example to /mnt/data
 3. 	```apt -y install scons libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libphysfs-dev```
 
 ## Install and build dxx-rebirth
-1. 	```git clone https://github.com/dxx-rebirth/dxx-rebirth```
+1. 	```git clone https://github.com/dxx-rebirth/dxx-rebirth``` // ```git clone https://github.com/JeodC/dxx-rebirth-compat``` (Use the compat version for ArkOS etc)
 2. 	```cd dxx-rebirth```
 3. 	```scons sdl2=1 sdlmixer=1 opengl=1```
 
