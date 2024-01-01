@@ -41,6 +41,8 @@ You may rename Player.plr and Player.plx in the conf folder for a different mult
 
 Cheats can be found and modified in cheats.txt. To turn a cheat on, change the 0 to 1. To turn it off, change 1 to 0. The cheats listed in cheats.txt only work with the full version of the game. The shareware demo has cheats, but you must locate and add them yourself.
 
+Add-Ons (.dxa files) such as different soundtracks from various soundcards and game versions, can be found at the project's [GitHub Repo](https://github.com/JeodC/Portmaster-Descent)
+
 ## Default Gameplay Controls
 
 | Button | Action |
@@ -88,4 +90,4 @@ Tekkenfede
 krishenriksen  
 Testers and Devs from the PortMaster Discord  
 Parallax Software  
-<a href="https://www.dxx-rebirth.com/">DXX-Rebirth</a> Team  
+[DXX-Rebirth](https://www.dxx-rebirth.com) Team  
