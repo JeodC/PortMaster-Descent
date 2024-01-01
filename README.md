@@ -27,7 +27,7 @@ Note: The folder ```/mnt/data/arm64``` can be modified, for example to /mnt/data
 2. 	```cd dxx-rebirth```
 3. 	```scons sdl2=1 sdlmixer=1 opengl=1```
 
-Retrieve your build from \\wsl.localhost\Ubuntu\mnt\data\arm64\dxx-rebirth\build
+Retrieve your build from ```\\wsl.localhost\Ubuntu\mnt\data\arm64\dxx-rebirth\build```
 
 ### Optional Steps
 4. 	```cd build```
