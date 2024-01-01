@@ -2,7 +2,7 @@
 The MS-DOS games by Parallax Software ported with DXX-Rebirth.
 
 ## Installation
-Unzip to ports folder e.g. ```/roms/ports/```. Ready to play with shareware and demo files. To upgrade to full game, purchase on Steam/GOG and then add .hog and .pig files to descent/data and descent2/data.
+Unzip to ports folder e.g. `/roms/ports/`. Ready to play with shareware and demo files. To upgrade to full game, purchase on Steam/GOG and then add .hog and .pig files to `descent/data` and `descent2/data`.
 
 Filelist for full versions:  
 ├── descent/data  
@@ -30,16 +30,17 @@ Filelist for full versions:
 │   └── robots-h.mvl (optional)  
 │   └── d2x-h.mvl (optional)  
 
-Descent I & II: Definitive Edition came with some extra content not available on GOG or Steam. These include Levels of the World (Descent 1), 29 Bonus Levels by Parallax Software (Descent 1), and the Descent 2: Vertigo expansion pack. This extra content can be placed in the data/missions folder for both Descent and Descent 2. If done correctly you'll see a new submenu when selecting New Game.
+Descent I & II: Definitive Edition came with some extra content not available on GOG or Steam. These include Levels of the World (Descent 1), 29 Bonus Levels by Parallax Software (Descent 1), and the Descent 2: Vertigo expansion pack. 
+This extra content can be placed in the data/missions folder for both Descent and Descent 2. If done correctly you'll see a new submenu when selecting New Game.
 
 ## Configuration
-Ini files d1x.ini and d2x.ini are configurable. It is recommended to not touch the Controls section of the ini files.
+Ini files `d1x.ini` and `d2x.ini` are configurable. It is recommended to not touch the Controls section of the ini files.
 
-Keyboard and mouse emulation is used via GPtoKeyB. The file descent.gptk can be opened and modified as user sees fit, but the current assigned keys are recommended for level select. Instead, controls should be modified within the games themselves via Options->Configure Keyboard.
+Keyboard and mouse emulation is used via GPtoKeyB. The file `descent.gptk` can be opened and modified as user sees fit, but the current assigned keys are recommended for level select. Instead, controls should be modified within the games themselves via Options->Configure Keyboard.
 
-You may rename Player.plr and Player.plx in the conf folder for a different multiplayer display name. If you do so, please modify the d1x.ini or d2x.ini file to reflect this change.
+You may rename `Player.plr` and `Player.plx` in the conf folder for a different multiplayer display name. If you do so, please modify the `d1x.ini` or `d2x.ini` file to reflect this change.
 
-Cheats can be found and modified in cheats.txt. To turn a cheat on, change the 0 to 1. To turn it off, change 1 to 0.
+Cheats can be found and modified in `cheats.txt`. To turn a cheat on, change the 0 to 1. To turn it off, change 1 to 0.
 
 Add-Ons (.dxa files) such as different soundtracks from various soundcards and game versions, can be found at the project's [GitHub Repo](https://github.com/JeodC/Portmaster-Descent)
 
