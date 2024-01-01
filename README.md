@@ -17,7 +17,7 @@ Note: Bookworm uses gcc-12. For compatibility with older systems such as ArkOS, 
 
 Note: The folder `/mnt/data/arm64` can be modified, for example to `/mnt/data/bookworm-arm64`. This is useful if you like to maintain multiple chroots.
 
-## Enter chroot and install essentials
+## Enter chroot and install dependencies
 1. 	`sudo chroot /mnt/data/arm64/`
 2. 	`apt -y install build-essential git wget python3 python3-pip python3-setuptools python3-wheel scons libglu1-mesa-dev pkg-config libpng-dev libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libphysfs-dev`
 
