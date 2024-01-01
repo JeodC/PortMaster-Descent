@@ -2,6 +2,8 @@
 Add-On files allow you to customize DXX-Rebirth to your liking. You might prefer certain soundcard midi audio, or even the PS1 soundtrack.
 To use an add-on, simply drop the .dxa file into the `descent2/data` folder. These dxa files are just .zip files, so you can open them and modify however you like.
 
+Some of these files are large and are therefore split into archive parts. Simply use something like 7zip to unarchive them.
+
 ## Included Here
 | Description | File |  
 |--|--| 
