@@ -7,7 +7,7 @@ To use an add-on, simply drop the .dxa file into the `descent/data` folder. Thes
 
 Some of these files are large and are therefore split into archive parts. Simply use something like 7zip to unarchive them.
 
-## Included Here
+## Descent 1 Add-Ons
 | Description | File |  
 |--|--| 
 |SC-55 MIDI|d1xr-sc55-music.dxa|  
@@ -21,6 +21,7 @@ Some of these files are large and are therefore split into archive parts. Simply
 |Mac CD Redbook Audio|d1cda-mac.dxa|  
 |PS1 Soundtrack|d1-playstation.dxa|
 
+## Descent 2 Add-Ons
 | Description | File |  
 |--|--| 
 |SC-55 MIDI|d2xr-sc55-music.dxa|  
@@ -36,7 +37,7 @@ Some of these files are large and are therefore split into archive parts. Simply
 |The Definitive Collection Audio|d2cda-tdc.dxa|  
 |Descent Maximum|d2xr-maximum.dxa|  
 
-## Descent Maximum
+### Descent Maximum
 Descent Maximum is the PS1 version of Descent 2. Rather than a straight port, it contains 36 new levels.
 It is a total conversion mod for the Descent 2 campaign. To revert to the PC campaign, just delete the .dxa file.
 
