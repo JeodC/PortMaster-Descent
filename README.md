@@ -69,8 +69,8 @@ Note: The folder `/mnt/data/arm64` can be modified, for example to `/mnt/data/bo
 2. 	`cd dxx-rebirth` // `cd dxx-rebirth-compat`  
 3. 	`scons sdl2=1 sdlmixer=1 opengl=1`
 
-Retrieve your build from `\\wsl.localhost\Ubuntu\mnt\data\arm64\dxx-rebirth\build`
+Retrieve your build from `\\wsl.localhost\Ubuntu\mnt\data\arm64\dxx-rebirth\build` // `\\wsl.localhost\Ubuntu\mnt\data\arm64\dxx-rebirth-compat\build`  
 
 ### Optional Steps
 4. 	`cd build`
-5. 	`strip d1x-rebirth / strip d2sx-rebirth`
+5. 	`strip d1x-rebirth / strip d2x-rebirth`
