@@ -66,7 +66,7 @@ Note: The folder `/mnt/data/arm64` can be modified, for example to `/mnt/data/bo
 
 ## Install and build dxx-rebirth
 1. 	`git clone https://github.com/dxx-rebirth/dxx-rebirth` // `git clone https://github.com/JeodC/dxx-rebirth-compat` (Use the compat version for ArkOS etc)
-2. 	`cd dxx-rebirth`
+2. 	`cd dxx-rebirth` // `cd dxx-rebirth-compat`  
 3. 	`scons sdl2=1 sdlmixer=1 opengl=1`
 
 Retrieve your build from `\\wsl.localhost\Ubuntu\mnt\data\arm64\dxx-rebirth\build`
