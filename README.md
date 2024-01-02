@@ -65,7 +65,7 @@ Note: The folder `/mnt/data/arm64` can be modified, for example to `/mnt/data/bo
 2. 	`apt -y install build-essential git wget python3 python3-pip python3-setuptools python3-wheel scons libglu1-mesa-dev pkg-config libpng-dev libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libphysfs-dev`
 
 ## Install and build dxx-rebirth
-1. 	`git clone https://github.com/dxx-rebirth/dxx-rebirth` // `git clone https://github.com/JeodC/dxx-rebirth-compat` (Use the compat version for ArkOS etc)
+1. 	`git clone https://github.com/dxx-rebirth/dxx-rebirth` // `git clone --branch compatibility https://github.com/JeodC/dxx-rebirth-compat` (Use the compat version for ArkOS etc)
 2. 	`cd dxx-rebirth` // `cd dxx-rebirth-compat`  
 3. 	`scons sdl2=1 sdlmixer=1 opengl=1`
 
