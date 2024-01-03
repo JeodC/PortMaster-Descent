@@ -18,6 +18,7 @@ Some of these files are large and are therefore split into archive parts. Simply
 |Mac CD Redbook Audio|d2cda-mac.dxa|  
 |Descent Maximum CD Audio|d2cda-max.dxa|  
 |The Definitive Collection Audio|d2cda-tdc.dxa|  
+|D2X-XL Soundtrack|d2-d2x-xl-mus.dxa|  
 |Descent Maximum|d2xr-maximum.dxa|  
 
 ## Descent Maximum
