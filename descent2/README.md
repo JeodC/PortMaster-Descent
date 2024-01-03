@@ -34,9 +34,8 @@ Descent I & II: Definitive Edition came with some extra content not available on
 This extra content can be placed in the data/missions folder for both Descent and Descent 2. If done correctly you'll see a new submenu when selecting New Game.
 
 ## Configuration
-Ini files `d1x.ini` and `d2x.ini` are configurable. It is recommended to not touch the Controls section of the ini files.
-
-Keyboard and mouse emulation is used via GPtoKeyB. The file `descent.gptk` can be opened and modified as user sees fit, but the current assigned keys are recommended for level select. Instead, controls should be modified within the games themselves via Options->Configure Keyboard.
+Ini files `d1x.ini` and `d2x.ini` are configurable. The port features KBM emulation and native SDL joystick controls. To switch between them, tick the option `-nojoystick` in the ini file. Joystick controls only affect the analog sticks and is meant for those who
+prefer a more "authentic" experience.  
 
 You may rename `Player.plr` and `Player.plx` in the conf folder for a different multiplayer display name. If you do so, please modify the `d1x.ini` or `d2x.ini` file to reflect this change.
 
@@ -63,7 +62,7 @@ Add-Ons (.dxa files) such as different soundtracks from various soundcards and g
 |D-PAD LEFT|Turn Left|
 |D-PAD RIGHT|Turn Right|
 |LEFT ANALOG|Look Around|
-|RIGHT ANALOG|Not Set|
+|RIGHT ANALOG|Slide Up/Down & Bank Left/Right|
 |SELECT|Back / Escape|
 |START|Start / Accept / Enter|
 |START + LEFT|Activate Cheats|

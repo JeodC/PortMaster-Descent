@@ -38,10 +38,20 @@ export TEXTINPUTPRESET=$CHEATS
 sed -i "s/^ResolutionX=640/ResolutionX=$DISPLAY_WIDTH/g" $GAMEDIR/conf/.$GAME/descent.cfg
 sed -i "s/^ResolutionY=480/ResolutionY=$DISPLAY_HEIGHT/g" $GAMEDIR/conf/.$GAME/descent.cfg
 
-# Run the game
+# Setup controls
 $ESUDO chmod 666 /dev/tty1
 $ESUDO chmod 666 /dev/uinput
-$GPTOKEYB "$GAME" -c "./descent2.gptk" & ./$GAME -hogdir data 2>&1 | tee -a ./log.txt
+if [ -n "$(sed -n '22s/^\s*;-nojoystick//p' "$GAMEDIR/d2x.ini")" ]; then
+	# -nojoystick off, use sdl controls
+	$GPTOKEYB "$GAME" -c "conf/joy.gptk" & 
+    SDL_GAMECONTROLLERCONFIG="$sdl_controllerconfig"
+else
+	# -nojoystick on, use kbm controls
+	$GPTOKEYB "$GAME" -c "conf/kbm.gptk" & 
+fi  
+
+# Run the game
+./$GAME -hogdir data 2>&1 | tee -a ./log.txt
 $ESUDO kill -9 $(pidof gptokeyb)
 $ESUDO systemctl restart oga_events & 
 printf "\033c" >> /dev/tty1
