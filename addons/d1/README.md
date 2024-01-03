@@ -25,7 +25,7 @@ Usage: .dxa files go in the `descent/data` folder. Levels of the World's entire 
 Levels of the World is an official add-on with all of the entries from a level design competition held by Interplay in 1995, plus one level designed by Parallax Software.  
 It contais Parallax Software top 10, 90 singleplayer and 23 multiplayer levels Total 123 levels.  
 
-Repaired levels:
+Repaired levels:  
 Ice Outpost I - ICEOUT.MSN contained an invalid characetr causing the .rdl file to not be recognized  
 Arena - ARENA.MSN missing `type=` line causing it to not be recognized for multiplayer anarchy mode  
 
