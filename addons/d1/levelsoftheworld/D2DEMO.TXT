@@ -1,0 +1,23 @@
+*	* 	*	*	* 	*
+late breaking news
+*	* 	*	*	* 	*
+
+CHECK THIS OUT!
+
+Descent 2 DEMO:
+--------------
+
+This non-interactive demo (movie) shows a glimpse of Descent 2 coming Spring '96.
+
+--------------
+
+D2Demo.Bat  -- will be in DESCENT2 directory on this CD ROM.
+
+To run the movie, type D2Demo.Bat  
+
+This can run from 2x CD ROM, if you have a Single Speed CD ROM, 
+copy to hard drive (check your space FIRST!)
+
+This non-interactive demo Requires approximately 23.4 MBytes.
+
+

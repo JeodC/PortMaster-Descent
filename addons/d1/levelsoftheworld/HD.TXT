@@ -1,0 +1,12 @@
+Title: Hell's Door
+Author: Mike Goggin
+E-mail Address: goggin@shore.net
+WWW address: http://www.shore.net/~goggin
+Description: A level for Solo or Cooperative play.
+
+Mission: Hell's Door
+
+Description of Mission: This is a level which I made
+from scratch using certain macros and robots.  It's
+extremely tough to beat the level 7 boss, but keep
+the faith. It takes me about 3 guys to beat him!

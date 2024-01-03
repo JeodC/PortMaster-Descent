@@ -1,0 +1,5 @@
+name = T-ZONE by TAC    ;any name you want
+type = anarchy          ;can be "normal" or "anarchy".  Omitted means normal
+num_levels = 1          ;number of normal levels
+t-zone.rdl              ;level filename 1
+

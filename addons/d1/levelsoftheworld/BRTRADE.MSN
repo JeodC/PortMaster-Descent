@@ -1,0 +1,4 @@
+name = BRtrade      ;any name you want
+type = normal          ;can be "normal" or "anarchy".  Omitted means normal
+num_levels = 1          ;number of normal levels
+brtrade.rdl

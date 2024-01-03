@@ -1,0 +1,28 @@
+DISCLAIMER
+
+While every reasonable attempt has been made to insure that
+the Descent levels submitted for this product do not cause
+machine or software problems, it must be understood that
+each level was constructed by Descent owners using an
+unoffical editor with no supervision from Interplay
+Productions.
+
+Interplay Productions neither warrants or represents that the
+Contest levels included herein are functional or bug-free.
+Nor does Interplay warrant these levels against occasional
+lock-ups or computer freezes requiring the rebooting of the
+computer or software.
+
+ACCORDINGLY, THE SOFTWARE IS BEING SUPPLIED TO YOU "AS IS"
+AND INTERPLAY MAKES NO WARRANTIES REGARDING THE SOFTWARE,
+EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NON-INFRINGEMENT. INTERPLAY DISCLAIMS ALL
+RESPONSIBILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES.
+
+Some states do not allow limitations as to how long an
+implied warranty lasts and/or exclusions or limitations
+of incidental or consequential damages so the above limitations
+and/or exclusions of liability may not apply to you.  This
+warranty gives you specific rights, and you may also have
+other rights which vary from state to state.

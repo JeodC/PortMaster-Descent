@@ -1,0 +1,13 @@
+Name: The Jolly Green Gyro
+Author: William J. Hart
+Email:  GgoGgirl@AOL.com
+
+Description: Deathmatch Level.  Take a look and
+see if you think its a Gyro.
+
+Thanks to Achim Stremplat for DEVIL
+and thanks to Chris Lautenbach for HOGUtil
+
+Additional thanks to my friends, who I play
+Deathmatch with.  Thanks for helping me come
+up with new ideas on how to kill you. :)

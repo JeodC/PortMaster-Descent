@@ -1,0 +1,4 @@
+name = Cicero Outpost   ; mission name 
+num_levels = 1          ; number of normal levels
+cicero.rdl              ; filename of level
+

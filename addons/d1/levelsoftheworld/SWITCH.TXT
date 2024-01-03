@@ -1,0 +1,15 @@
+Level: Switch
+
+Author: Tim Fredericy
+Email: topthumb@aol.com
+
+Name of Mission: Switch
+
+Description of Mission:
+This level has plenty of switched
+doors which gives you a few choices
+of which door to take. Take the right
+one and you have it made, take the wrong
+one, that's a different story.
+
+This level will support 4 players.

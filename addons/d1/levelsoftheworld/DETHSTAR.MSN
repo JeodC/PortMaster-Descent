@@ -1,0 +1,4 @@
+name = Death Star       ;any name you want
+num_levels = 1		;number of normal levels
+dethstar.rdl            ;level filename 1
+

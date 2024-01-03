@@ -1,0 +1,9 @@
+Full Name: William John Sechrist (a.k.a. Bill)     
+Email Address(s):__bscoder@moose.erie.net
+
+Name of Mission: Kicker
+
+Description of Mission:  Designed for multiplayer.
+No invuls, plasmas or megas, the reason being that
+this is the preferred configuration for multiplayer
+combat.  Everything else is there.

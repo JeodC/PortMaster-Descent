@@ -1,0 +1,6 @@
+name = Barium           ;any name you want
+type = Normal           ;can be "normal" or "anarchy".  Omitted means normal
+num_levels = 1          ;number of normal levels
+Barium.rdl
+;This Level was created by Arlo Aude(SPYDIR) with DEVIL 1.00.
+;E-Mail gt9605a@prism.gatech.edu

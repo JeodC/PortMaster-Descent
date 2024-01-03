@@ -1,0 +1,44 @@
+CREDITS
+
+Launcher Design and Windows Programming:
+Bryan Aamot
+
+DOS Launcher Design and Programming:
+Bryan Yablonski
+
+Debugging and General Hair-Pulling:
+Edmund Biro
+Rick Stevens
+
+Executive Producer:
+Alan Pavlish
+
+Producers:
+Richard D. Mulligan
+Chris Young
+
+Line Producer:
+Robert Berzins
+
+Contest Concept, Design and Implementation:
+Bridgette J. Patrovsky
+
+Marketing Director:
+Jerry Luttrell
+
+Manager, Quality Assurance:
+Jeremy Barnes
+
+SPECIAL THANKS TO:
+
+The incredibly creative and talented team at Parallax,
+for creating Descent;
+
+The creator of DEVIL, 
+
+The QA Team at Interplay, headed up by Jeremy Barnes;
+they never get enough credit. Thanks to lead tester,
+Chad Allison, for the long nights!
+
+AND OTHERS, TOO TIRED TO MENTION!
+    *   *   *

@@ -1,0 +1,6 @@
+name = Aurora           ;any name you want
+type = normal           ;can be "normal" or "anarchy".  Omitted means normal
+num_levels = 1          ;number of normal levels
+aurora.rdl              ;level filename 1
+;Aurora - Created by axiom <Will Loconto> with Devil 1.02 09/14/95
+

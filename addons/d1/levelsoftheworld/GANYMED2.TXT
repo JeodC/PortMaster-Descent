@@ -1,0 +1,14 @@
+Full Name: Martin Westphal
+Email Address: martin@pnn.sgz-bank.com
+
+Name of mission: Ganymed 2
+
+Description: A big level, with lots of monsters,
+be carefull!
+
+A hint: first keep left. And don't use all your
+shield before coming to the red key.
+
+This level was designed as a second of a series,
+so that the player has already all necessary
+weapons, but it is also playable from the start.

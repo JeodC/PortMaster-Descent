@@ -1,0 +1,10 @@
+Level: Boli
+Description: Don't get lost in the circle maze.
+
+Author: Tim Fredericy
+Date: Aug. 20, 1995
+
+Email:Topthumb@aol.com
+
+This level has many switches. It also has                
+a circle maze that could be fatal. Good luck...

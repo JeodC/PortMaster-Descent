@@ -1,0 +1,13 @@
+Name of Mission: Deep Pit Mine
+
+Authors Name: Curtis Houghton
+Email Address: curtish@wordperfect.com
+
+Description of Mission: Delve deep into the
+iron-rich asteroid to flush out the mining
+robots gone amok.  The reactor room is hidden
+behind a secret panel, so look well.
+
+Deep Pit Mine was designed with single-person
+play in mind, although multi-player games work
+well because, of the many large rooms.

@@ -1,0 +1,14 @@
+Level name: Cubik
+Fred A. Berganio
+Email Address(s): Fberganio@aol.com
+
+Type: single or multiplayer (anarchy or cooperative)
+
+Cubik is a level designed mainly for anarchy play,
+but will also work as a single player level.  It's
+features are a single, central large room ideal for
+deathmatch fests, surrounded by a tunneling system
+that redirects players back to the center room.  All
+three keys are included, as well as hostages.  Cubik
+is so named because virtually all the building
+polygons consist of squared off cubes.  Enjoy.

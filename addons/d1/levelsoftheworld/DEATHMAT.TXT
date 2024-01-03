@@ -1,0 +1,18 @@
+Level: deathmat (1 level mission)
+Author: Brian DeLoach
+Date: July 10,1995
+Email: bdelo@aol.com
+ 
+This level is for multiplayer only, unless you
+just want some practice flying.
+
+I created this level because a group of us at work
+like to play at lunch time, and some of the levels
+in the the chaos mission just weren't liked by the
+boys in the office.  Hence I created deathmat to
+replace level chaos5.rdl. Let me know if you like
+my level, or to give me suggestions for new ones.
+
+I think that I'm getting hang of this DEVIL thing.
+
+ brian

@@ -1,0 +1,19 @@
+Name:  Beyond Chaos
+Levels: 1
+Players: 2-4
+Deathmatch: YES!
+Coop: NO!
+Single player: yes, but there's no monsters.
+
+Prodeced by:  Brandon Camelia
+E-mail: camelia@sfsu.edu
+
+This is the ultimate deathmatch level! I try to
+make most of my levels specifically for
+deathmatching. This level doesn't have a lot of
+room in most of the area, though there are many
+places to hide! I think it will be best with 4 players
+(wich I made the limit, too crazy otherwise).
+
+Have Fun!!!
+                   

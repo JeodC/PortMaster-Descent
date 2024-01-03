@@ -1,0 +1,6 @@
+name = The Catacombs    ; The level by Chris Kotchey
+type = Normal           ; can be "normal" or "anarchy".  
+num_levels = 1          ;number of normal levels
+Catacomb.rdl
+;This Level was created by Chris Kotchey with DEVIL 1.02.
+;E-Mail CMKotchey@aol.com

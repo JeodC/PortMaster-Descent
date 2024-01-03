@@ -1,0 +1,34 @@
+name = Descent 2: Maximum
+type = normal
+num_levels = 24
+psx01.rl2
+psx02.rl2
+psx03.rl2
+psx04.rl2
+psx05.rl2
+psx06.rl2
+psx07.rl2
+psx08.rl2
+psx09.rl2
+psx10.rl2
+psx11.rl2
+psx12.rl2
+psx13.rl2
+psx14.rl2
+psx15.rl2
+psx16.rl2
+psx17.rl2
+psx18.rl2
+psx19.rl2
+psx20.rl2
+psx21.rl2
+psx22.rl2
+psx23.rl2
+psx24.rl2
+num_secrets = 6
+psxs1a.rl2,2
+psxs2a.rl2,6
+psxs3a.rl2,12
+psxs4a.rl2,15
+psxs5a.rl2,17
+psxs6a.rl2,22

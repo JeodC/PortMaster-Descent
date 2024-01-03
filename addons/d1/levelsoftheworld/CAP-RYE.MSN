@@ -1,0 +1,4 @@
+name = Captain Rye's Rescue  ;any name you want
+num_levels = 1            ;number of normal levels
+cap-rye.rdl                 ;level filename 1
+;This level was created by Peter Kostka with DEVIL 1.02

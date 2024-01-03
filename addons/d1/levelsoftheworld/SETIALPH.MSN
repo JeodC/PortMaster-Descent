@@ -1,0 +1,4 @@
+name = Seti-Alpha V     ;any name you want
+num_levels = 1          ;number of normal levels
+setialph.rdl            ;level filename 1
+

@@ -1,0 +1,18 @@
+Full Name:    Steven James Kolacki
+Email Address(s):  stev@ix.netcom.com
+
+Name of Mission: The Keep
+
+Multiplayer level: An interconnected series of
+rooms designed for modem play. There are robots
+included for single play, but there are no keys, just
+blow the reactor when you get bored. Don’t use the
+bots in 2 player, but the extra powerup’s from the
+bots are good for network play.  A good variation of play
+is guns only in the brown room. Drop the window size
+in the brown room for good frame rate if you need to.
+
+I could have reduced structure to speed it up, but it's just
+wouldn't be the same. Yes, there are a few stash spots.
+If you really, really need a fusion cannon, there is
+one in here.

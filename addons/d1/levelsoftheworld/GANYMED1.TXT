@@ -1,0 +1,11 @@
+Full Name: Martin Westphal
+Email Address: martin@pnn.sgz-bank.com
+
+Name of mission: Ganymed 1
+
+Description: My first try for a Descent level. Go in,
+kill all monsters, rescue the hostages and destroy
+the reactor... What else ? :-)
+
+A hint: If you are in the big room, keep moving.
+(Better stay invisible as long as possible)

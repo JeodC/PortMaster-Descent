@@ -1,0 +1,27 @@
+SS Alexander: A Descent Mission
+Author: Nigel Keogh 
+
+So here's the deal:  The space station Alexander
+(the first though certainly not the last of the
+superstations--there are others in lesser degrees
+of completion dotted about the solar system) has
+been overrun by aggressive bots from the mining
+planet about which it orbits. Alexander's main
+purpose is to supply food to the miners by growing
+and processing a form of lichen--it's the stuff on
+the bed forms.  The station was intended to be almost
+totally automated and manned by drone robots.
+Unfortunately, these same drones were easily enlisted
+by the planetary forces.
+
+Good luck.  Hate to lose the station, but what can you
+do?  By the way, your exit route is slightly circuitous
+(necessary on a space station of this design) so plan
+it out carefully in advance of blowing the reactor.
+
+Additional note: The concept of designing a space
+station-based mission was one that I had wholly
+independently. It wasn't until after I'd had the
+idea and begun work on the level that I ran across
+alpha4.zip, which is of course four levels that take
+place on a space station. It happens.

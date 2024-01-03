@@ -1,0 +1,48 @@
+This level was created by Peter Kostka
+with Devil 1.02.
+
+E-mail: pkostka@acs.ryerson.ca
+or
+bn816@torfree.net
+
+Name of Mission:
+Captain Rye's Rescue
+
+Description of mission: Designed for a
+solo one-player game. Supports 6
+Deathmatch starts, 4 Co-op starts, Yellow,
+Blue, and Red keys, 6 hostages, 1 reactor.
+
+Captain Rye, who has a great deal of hostile-
+mech knowledge, must be rescued.  Escaping
+the cell that still holds the other hostages,
+Captain Rye has managed to communicate that
+he has disabled a hostile robot and used it's
+equipment to bore out a cave for himself. He
+has used scraps and equipment to set up a
+series of door-opening motion triggers. He is
+counting on only the best of our human pilots
+to be able to trigger them and make their way
+into his hide-out.
+
+And pilot... don't laugh when you see him. His looks
+betray the fact that he's one of our toughest little
+buggers. The mission can only be considered a true
+success if Captain Rye is rescued.
+
+(Here's a hint if you'd like one; page down to it. If not,
+then stop reading)
+
+
+
+
+
+
+
+
+
+
+
+
+Hint: You'll have to make use of more than one directional thruster.
+

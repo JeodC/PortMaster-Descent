@@ -1,0 +1,4 @@
+name = Martian Gas Mine ; HOG File Title
+type = normal           ; Normal for solo Anarchy for Multiplayer
+num_levels = 1          ; Number of levels in HOG file
+mars.rdl                ; Name of first level in HOG file

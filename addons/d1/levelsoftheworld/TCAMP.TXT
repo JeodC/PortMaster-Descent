@@ -1,0 +1,31 @@
+Mission: Training Camp
+
+Hello, fellow Descenters.  This is
+Spydir(irc nick). My real name is
+Arlo James Aude.  The level, Training Camp, is
+intended to be an anarchy level.  I've tried
+to the best of my ability to make it nice
+and clean.  The textures are all aligned and
+besides the doors and some of the steel
+support looking textures, I have tried to
+make it look as if all the walls have
+thickness.  I've also strayed away from
+the 4D effects.  The chinese box level was
+enough for me.
+
+Training Camp is large enough so that 8 people
+could play comfortably in it.  Some of my previous
+levels were regarded as cramped, so I strived to
+think large with this one.
+
+If you have any questions, problems, or suggestions,
+please e-mail me at gt9605a@prism.gatech.edu.
+
+Later, Spydir...
+
+PS: For anyone who has an earlier version, you will
+find this one much more manageable.  I reduced the
+number of cubes in the starting rooms from around
+75 to around 40.  That's about a 2x speed gain.  I
+hope it helps. Besides the speed, I really like the
+newer look of the room.

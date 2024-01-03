@@ -1,0 +1,4 @@
+name = Seals      ;any name you want
+type = anarchy	  ;can be "normal" or "anarchy".  Omitted means normal
+num_levels = 1    ;number of normal levels
+seals.rdl         ;level filename 1

@@ -1,0 +1,15 @@
+Name: JAXX
+Author: William J. Hart
+Email: GgoGgirl@AOL.com
+
+Description: Deathmatch Level
+
+Once again, mi amigo, Tim, gave me the
+idea for this one. Not that he knows about
+it, its just easy to keep moving and dodging
+fire.
+
+Editors: DEVIL ver. 1.02 and HOGUtil ver. 1.0
+                
+Thanks to Achim Stremplat for DEVIL
+and thanks to Chris Lautenbach for HOGUtil.

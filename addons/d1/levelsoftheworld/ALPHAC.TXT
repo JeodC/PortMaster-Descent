@@ -1,0 +1,21 @@
+Alpha Centuri Mining Consortium
+Author: Nigel Keogh
+
+This is my first go at a Descent level mission.  It
+should play as normal, anarchy or multi-player/coop. 
+I've included lots of tricks and traps for those who
+like that sort of thing and have been told by a friend
+who test-played it for me that it's a tough level
+(When designing a level it's so hard to tell, since you
+know all the secrets.).
+
+On all the planets of the Alpha Centuri system that have
+been designated as mining planets, the valuable minerals
+are buried deep, hence the deep shafts.
+
+If you have trouble finding keys and passageways, bear
+in mind that I favor trap doors in floors.  Also, the exit on
+this one is a bit tricky, but I'll let you figure that out for 
+yourself. Enjoy. 
+
+Email Address: Nigel c/o wayne265@hic.net

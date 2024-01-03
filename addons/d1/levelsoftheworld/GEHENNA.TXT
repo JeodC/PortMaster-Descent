@@ -1,0 +1,31 @@
+WARNING: Interplay QA experienced
+crash problems when playing this
+level as a multiplayer LAN scenario.
+
+Author's name: Greg Siegrist
+E-mail: BBall MJ@aol.com
+
+Mission: Gehenna
+
+Desc.:  First of all, let me say this is an
+upgrade from TARTARUS. I fixed the exit
+door, so you can't exit until you blow up the
+mine. I also re-did this file because my dumb
+butt erased the old one before I figured out I
+had a bug :( :| :)
+
+It's your worst nightmare, only you don't get to
+hide under the covers.
+
+CAUTION: HIGHLY ADDICTIVE! This level is unique
+to any other. YOU CHOOSE THE NUMBER OF
+ROBOTS YOU FACE! (Cool) Filled with puzzles and
+traps; nothing is as it seems. Go down every corridor,
+kill every robot, find every secret! Be paranoid!
+If something looks like nothing, there is a sure
+bet it does something! If you find yourself unable
+to open a door, i.e. red key, there is NO bug! I know
+I have done the key entrances correct, I've been
+through all of them myself many times. Be
+prepared to face the ultimate
+brainteaser/shoot 'em up! Macros to DIE for!

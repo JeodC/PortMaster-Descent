@@ -1,0 +1,85 @@
+Mission Title: Team Death!
+
+Author: Virgil Itliong
+Email Address: virgil@austin.ibm.com
+
+Level Description
+
+Like the team concept of killing the bad
+guys and the reactor, then heading for exit?
+But you really like blowing your buddies to
+kingdom come? Well, this level is for you!
+
+Forget EVERYTHING you ever knew about
+anarchy!  This combines the team work
+of co-op play with the killing of anarchy.
+
+What is Team Death?
+It's a new way to fly.  It's an anarchy type
+of game where you try to get to your reactor
+first, while stopping the team from beating
+you to it.
+
+How do you play?
+- Two teams, two caves, two exits, each
+having a blue and red.
+
+- One member of a team must go to their cave
+(blue team goes to blue cave) to activate a
+switch.  This switch will open a door in a
+tunnel.  The doors are marked red and blue.
+
+- Than another team member (or even the
+same person) must fly to that tunnel
+to enter the door before it closes.
+
+- Once through the door, continue flying
+through the tunnel.  Activate the first
+switch you see.  This will give you a
+point.  As you continue to fly through the
+tunnel, you will see previous switches
+you already activated.  Leave them alone,
+you don't have to re-activated them.
+
+- Fly back to your buddies and do it
+again.  First to 4 points win.
+
+Note: You can ONLY go through the door
+that correspondence to your color. If you
+happen to go through an enemy door, you
+can only score an enemy point.  Of course
+you can always just hang around and wait
+for someone to come along...
+
+- After you get your 4 points the exit door
+for your corresponding color will open.  Fly
+through it, kill the reactor, and exit.  The
+idea is to have ONE member of the team
+exit, sacrificing your teammates is ok :-).
+
+- How can you see the score?   The scores
+are denoted by lights in the main cave. 
+Each time a blue point is scored, a door
+revealing blue lights are opened.
+Likewise for red.
+
+- A switch is denoted by a big light floating
+in the air.  Hopefully this will be obvious.
+To activate a switch, fly through it.
+
+- A demo is also packaged with the zip file.
+It is a walkthrough of the map to
+demonstrate how to get the points.
+You MUST have Descent 1.4 to view demo.
+
+- The first team with 4 point wins.  If
+there's no clear winner, then the team
+that is able to exit wins.  If that is a
+tie, then the team with most frags wins.
+If thats a tie--do it over again!
+
+OR
+
+Forget the point system and just play
+normal anarchy!  This level is
+fun for that, too!

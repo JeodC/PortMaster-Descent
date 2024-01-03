@@ -1,0 +1,4 @@
+name = Ziv's Descent City
+type = normal  ;(can be "normal" or "anarchy").
+num_levels = 1
+dsntcity.rdl

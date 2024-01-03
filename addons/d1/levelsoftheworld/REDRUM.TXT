@@ -1,0 +1,14 @@
+Name: REDRUM
+Author: William J. Hart
+Email: GgoGgirl@AOL.com
+
+Description: Deathmatch Level
+
+After watching the "Shining" one too
+many times, I came up with the idea
+for this level.  Kind of drives you crazy
+playing with four people, play it and see.
+
+Thanks to Achim Stremplat for DEVIL
+and thanks to Chris Lautenbach for
+HOGUtil.

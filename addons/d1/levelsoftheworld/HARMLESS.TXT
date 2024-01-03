@@ -1,0 +1,40 @@
+MOSTLY HARMLESS !
+Kai 'Psycho' Zenerino
+Olaf 'Fatman' Eichler
+Email: <eichlobo@rubc.rz.ruhr-uni-bochum.de>
+
+This level is the second level we have created,
+and the first we build together. Originally, we
+wanted a level without a reactor, because the idea
+was that, in this mine, the energy is produced by
+thermal powerstations. You can see them in some of
+the rooms. They are the ventilators at the floors, over
+these the flicker isn't the sign of a fuel center, it
+simulates the hot gases of the lava.
+
+At testing in a netgame we found out that the level is
+a little hard with a Big Boss 2 ,so we changed the Boss
+to a reactor. This level was designed for a multiplayer
+game with up to 8 player in robot-anarchy mode, but
+you can play it alone if you want to die, or in
+cooperative mode with up to 4 players.
+
+Good luck and watch your six.  -Kai
+
+So - you dare to try out our little level ? Well, Psycho
+didn't manage to solve it in anything above ROOKIE yet
+- let alone to me - so good luck.
+
+If You find it too easy (i.e. You are nuts !), feel free
+to change the reactor back to Big Boss 2 (THEN we
+DIDN'T manage to solve this level in single player
+mode at all).
+
+By the way, in case your computer is a bit to slow
+for this level, blame it on me (I found out, that my
+486-50 is out of date for that level), and send me a
+mail, or better, don't.
+
+OK, have fun and prepare to die ...
+hahahahahahahhaha...aaarghhhh... !!
+

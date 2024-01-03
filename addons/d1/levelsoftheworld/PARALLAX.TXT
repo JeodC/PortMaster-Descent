@@ -1,0 +1,31 @@
+Descent was developed by Parallax Software, founded in June, 1993 by
+Matt Toschlog and Mike Kulas.  Both of them had substantial experience 
+in flight simulators and in arcades during the 1980's.  Their desire
+with Descent was to bring together the action from a 1980's arcade 
+game with a flight simulator in a very rich environment.
+ 
+The original proposal for what became Descent was written in 1992 and 
+was developed into a script in the spring of 1993.  The original name 
+for the game was Miner (later Inferno, finally Descent).  It was
+designed from the beginning as a shareware game for another
+publisher.  This publisher cancelled the project about midway through 
+development.  Parallax then signed a development deal with
+Interplay.
+
+The capability to support aftermarket levels was not specified in the 
+script, nor was it seriously discussed before the final month of the 
+project.  Hooks for this support were added in a couple evenings
+shortly before release.
+
+The Descent development team consisted of Kulas, Toschlog, John
+Slagel, Che-Yuan Wang, Adam Pletcher, Mark Dinse, Jasen Whiteside, 
+Mark Allender and Rob Huebner.  With the exception of Kulas and
+Toschlog, Descent represents the first game industry experience for 
+the team.  We believe the desire to create a game which we found fun 
+to play, coupled with a willingness to polish it for months has
+yielded something original.  We hope you'll agree. 
+
+The Descent Team
+
+P.S. To all the level designers: Thanks for the great levels! 
+

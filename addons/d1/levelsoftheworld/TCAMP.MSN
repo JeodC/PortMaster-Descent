@@ -1,0 +1,4 @@
+name = Training Camp      ;any name you want
+num_levels = 1            ;number of normal levels
+tcamp.rdl                 ;level filename 1
+;This level was created by SPYDIR(Arlo James Aude) with DEVIL 1.2

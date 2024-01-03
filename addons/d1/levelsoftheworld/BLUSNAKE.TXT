@@ -1,0 +1,17 @@
+Name: Nick the Blue Snake
+
+Description: Deathmatch Level 
+No big spiel, it's just a level, for God's sake.
+
+Author: William J. Hart
+
+Editors: DEVIL ver. 1.02 and HOGUtil ver. 1.0
+             
+Thanks to Achim Stremplat for DEVIL
+and thanks to Chris Lautenbach for HOGUtil
+
+Additional thanks to my friends, who I play
+Deathmatch with; thanks for helping me come
+up with new ideas on how to kill you. :)
+       
+Email: GgoGgirl@AOL.com

@@ -1,0 +1,18 @@
+Name: The Temple on 3rd Ave.
+Author: William J. Hart
+Email: GgoGgirl@AOL.com
+
+Description: Deathmatch Level
+My friend Tim told me about this
+building in the city that looked
+like a Descent temple, which gave
+me the idea for this level.
+                
+Thanks to Achim Stremplat for DEVIL
+and thanks to Chris Lautenbach
+for HOGUtil.
+
+Additional thanks to my friends who I
+play Deathmatch with. Thanks for helping
+me come up with new ideas on how to
+kill you. :)

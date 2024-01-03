@@ -1,0 +1,16 @@
+Name of Mission: The Roundabout
+
+Authors Name: Mitch Eatough
+Email Address: ender@xmission.com
+
+Description of Mission:
+The Roundabout is my first level.  It's
+intended for Anarchy play (There are
+no robots), and is large enough for
+eight players.
+
+The level is almost all tunnels, with
+very few rooms, and no large rooms.
+It's also very dark inside.  The door to
+the reactor room takes a while to shoot
+open, just keep trying.

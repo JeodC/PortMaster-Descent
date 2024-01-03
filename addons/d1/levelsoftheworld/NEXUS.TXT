@@ -1,0 +1,32 @@
+Mission: Nexus
+
+Author: Arlo James Aude
+E-mail:
+gt9605a@prism.gatech.edu
+
+Going on the whole, everything is
+possible in the Descent environment.
+I've created a level with a little more
+solidity in it's objects.  Most of the
+levels out there use the 3D effects of
+the Descent engine to create corridors
+that move in all 3 directions.
+
+The difference which sets this level apart
+from those is that the corridors have a nice
+walkway going through them.  There are
+some secret hiding places inside this
+walkway as well which contain objects,
+such as a mega missile, smart, etc.  This
+sort of technique usually requires a lot of
+cubes to accomplish, but I tried my best
+to reduce that number to a minimum,
+though the level may still be slow on some
+machines.  There are only three 4D corridors
+in this level. I'm sorry about this, but I
+needed them to tie the whole thing together.
+I'll try my hardest to avoid using any 4D effect
+in future levels.  I did obtain the lower room
+from the chaos2 level, but I believe that I
+made significant changes to the area to
+warrant calling it original.

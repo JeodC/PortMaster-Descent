@@ -1,0 +1,13 @@
+Level Name: Illusions
+
+Author: Mike Goggin
+goggin@shore.net
+
+Characteristics: A level for multiplayer mode only.
+
+Notes: My newest level and, I might say, it isn't
+that bad! Illusions is a level that I made using
+Devil1.2.  It is composed of 4 big domes with balls
+in the middle. Each ball has three different tunnels
+going into it.  This level is quite large and may run
+a little slow on some computers, sorry! :)

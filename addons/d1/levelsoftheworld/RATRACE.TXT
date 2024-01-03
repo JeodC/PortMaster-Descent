@@ -1,0 +1,11 @@
+Level: ratrace
+
+Author: Tim Fredericy
+Email: Topthumb@aol.com
+
+Description of Mission:
+This level was designed to be played with               
+a partner in modemplay. It can be played
+solo also, just play both sides and then
+destroy the reactor. Both sides are exactly
+the same. You can choose co-op, or anarchy.

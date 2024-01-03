@@ -1,0 +1,4 @@
+name = ufp1771G 
+num_levels = 1          ;number of normal levels
+ufp1771G.rdl            ;level filename 1
+
