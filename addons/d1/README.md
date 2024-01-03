@@ -17,6 +17,7 @@ Some of these files are large and are therefore split into archive parts. Simply
 |Finn's MIDI|d1midi-finn.dxa|  
 |Mac CD Redbook Audio|d1cda-mac.dxa|  
 |PS1 Soundtrack|d1-playstation.dxa|
+|D2X-XL Soundtrack|d1-d2x-xl-mus.dxa|
 
 ## Additional Add-Ons
 Missions can be found and downloaded from [Descent Mission Archive](https://sectorgame.com/dxma/)
