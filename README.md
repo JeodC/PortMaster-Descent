@@ -7,7 +7,7 @@ Latest PortMaster version built from commit [4efc4e9](https://github.com/dxx-reb
 This port requires an add-on file to play music since libmodplug cannot load the .hmp files. Add-On files allow you to customize DXX-Rebirth to your liking. You might prefer certain soundcard midi audio, or even the PS1 soundtrack.
 To use an add-on, simply drop the .dxa file into the `descent/data` folder. These dxa files are just .zip files, so you can open them and modify however you like.
 
-There are several soundtrack addons to choose from as well as two official missions: Levels of the World for Descent 1 and Descent Maximum for Descent 2.  
+There are several soundtrack addons to choose from as well as missions.  
 
 Some of these files are large and are therefore split into archive parts. Simply use something like 7zip to unarchive them.
 
