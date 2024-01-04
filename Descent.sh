@@ -23,7 +23,7 @@ $ESUDO rm -rf ~/.$GAME
 ln -sfv $GAMEDIR/conf/.$GAME ~/
 
 export LIBGL_FB=4
-export LD_LIBRARY_PATH=$GAMEDIR/libs:/usr/libs
+export LD_LIBRARY_PATH=$GAMEDIR/libs:/usr/lib
 
 # Add some cheats
 if [ ! -f "./cheats.txt" ]; then
