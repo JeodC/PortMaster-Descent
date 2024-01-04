@@ -1,0 +1,6 @@
+name = Humility ver1.2           ;any name you want
+type = normal             ;can be "normal" or "anarchy". Omitted means normal 
+briefing = blbrief                          
+num_levels = 1		  ;number of normal levels
+humility.rdl 		  ;level filename 1
+ending = endreg

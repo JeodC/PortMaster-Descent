@@ -1,0 +1,6 @@
+name = Earth Strike
+type = normal
+briefing = b2
+num_levels = 1
+level01.rdl
+ending = e2

@@ -1,0 +1,5 @@
+name = Sea of Tranquility ;any name you want
+num_levels = 1  	  ;number of normal levels
+tranquil.rdl  		  ;level filename 1
+
+
