@@ -1,0 +1,28 @@
+zname = Descent 2: Vertigo
+type = normal
+num_levels = 20
+d2xlvl01.rl2
+d2xlvl02.rl2
+d2xlvl03.rl2
+d2xlvl04.rl2
+d2xlvl05.rl2
+d2xlvl06.rl2
+d2xlvl07.rl2
+d2xlvl08.rl2
+d2xlvl09.rl2
+d2xlvl10.rl2
+d2xlvl11.rl2
+d2xlvl12.rl2
+d2xlvl13.rl2
+d2xlvl14.rl2
+d2xlvl15.rl2
+d2xlvl16.rl2
+d2xlvl17.rl2
+d2xlvl18.rl2
+d2xlvl19.rl2
+d2xlvl20.rl2
+num_secrets = 3
+d2xlvls1.rl2,1
+d2xlvls2.rl2,10
+d2xlvls3.rl2,16
+

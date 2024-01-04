@@ -20,7 +20,7 @@ Some of these files are large and are therefore split into archive parts. Simply
 |The Definitive Collection Audio|d2cda-tdc.dxa|  
 
 ## Missions
-Descent Maximum is the PS1 version of Descent 2. Rather than a straight port, it contains 36 new levels. Place in `descent2/data/missions`.
+Descent Maximum is the PS1 version of Descent 2. Rather than a straight port, it contains 36 new levels. Descent: Vertigo is an extension of the original Descent 2 campaign. Place in `descent2/data/missions`.
 
 ## Additional Add-Ons
 Missions can be found and downloaded from [Descent Mission Archive](https://sectorgame.com/dxma/)
