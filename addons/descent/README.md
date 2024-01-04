@@ -28,7 +28,7 @@ Levels of the World is an official add-on with all of the entries from a level d
 It contains Parallax Software's top 10 picks, 90 singleplayer and 23 multiplayer levels--123 levels total.  
 
 Repaired levels:  
-Ice Outpost I - ICEOUT.MSN contained an invalid characetr causing the .rdl file to not be recognized  
+Ice Outpost I - ICEOUT.MSN contained an invalid character causing the .rdl file to not be recognized  
 Arena - ARENA.MSN missing `type=` line causing it to not be recognized for multiplayer anarchy mode  
 
 ## Additional Add-Ons
