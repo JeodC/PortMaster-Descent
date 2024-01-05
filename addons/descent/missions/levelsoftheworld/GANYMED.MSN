@@ -3,4 +3,3 @@ type = normal		;can be "normal" or "anarchy".  Omitted means normal
 num_levels = 2		;number of normal levels
 ganymed1.rdl		;level filename 1
 ganymed2.rdl
-

@@ -1,3 +1,0 @@
-name = The Stair Case      ;any name you want
-num_levels = 1          ;number of normal levels
-stair.rdl             ;level filename 1
