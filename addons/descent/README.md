@@ -27,5 +27,8 @@ Descent I & II: The Definitive Collection came packaged with 20 bonus levels by 
 Levels of the World is an official add-on with all of the entries from a level design competition held by Interplay in 1995, plus one level designed by Parallax Software.  
 It contains Parallax Software's top 10 picks, 90 singleplayer and 23 multiplayer levels Total 123 levels.  
 
+## Other
+In the `other` folder you'll find `d1xr-hires.dxa` which upscales textures to a higher resolution for modern systems.  
+
 ## Additional Add-Ons
 Missions can be found and downloaded from [Descent Mission Archive](https://sectorgame.com/dxma/)
