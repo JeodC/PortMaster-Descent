@@ -28,7 +28,7 @@ Levels of the World is an official add-on with all of the entries from a level d
 It contains Parallax Software's top 10 picks, 90 singleplayer and 23 multiplayer levels Total 123 levels.  
 
 ## Other
-In the `other` folder you'll find `d1xr-hires.dxa` which upscales textures to a higher resolution for modern systems.  
+In the `other` folder you'll find `d1xr-hires.dxa` which adds upscaled (640×480) backgrounds, briefing images and fonts to D1X-Rebirth. 
 
 ## Additional Add-Ons
 Missions can be found and downloaded from [Descent Mission Archive](https://sectorgame.com/dxma/)
