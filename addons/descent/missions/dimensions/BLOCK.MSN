@@ -1,0 +1,10 @@
+name = Anarchy Block   ;Based on DOOM2 level 07 "Dead Simple"
+type = normal          ;made only for ANARCHY       
+num_levels = 1
+block.rdl    
+
+; HINTS:
+; Use the subtle textures to keep your bearings.
+; Spent weapons seem to re-appear in the energy tube.
+; Fusion and Plasma are hidden in secrets.
+; Turn down detail levels to help see the secrets.

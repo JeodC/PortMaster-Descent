@@ -1,0 +1,4 @@
+name = boyds end      ;any name you want
+num_levels = 1            ;number of normal levels
+boydsend.rdl           ;level filename 1
+;This level was created by dc66 with devil1.0

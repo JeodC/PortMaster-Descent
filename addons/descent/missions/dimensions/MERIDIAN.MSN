@@ -1,0 +1,6 @@
+name = Meridian         ;any name you want
+type = normal           ;can be "normal" or "anarchy".  Omitted means normal
+num_levels = 1          ;number of normal levels
+meridian.rdl             ;level filename 1
+;Meridian - Created by axiom <Will Loconto> with Devil 1.01 7/09/95
+

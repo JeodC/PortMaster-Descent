@@ -27,6 +27,8 @@ Descent I & II: The Definitive Collection came packaged with 20 bonus levels by 
 Levels of the World is an official add-on with all of the entries from a level design competition held by Interplay in 1995, plus one level designed by Parallax Software.  
 It contains Parallax Software's top 10 picks, 90 singleplayer and 23 multiplayer levels Total 123 levels.  
 
+Dimensions was an unauthorized distribution disc from Lasersoft that contains fan-made levels. It was not authorized by Interplay and Lasersoft was sued for trademark infringement.  
+
 ## Other
 In the `other` folder you'll find `d1xr-hires.dxa` which adds upscaled (640×480) backgrounds, briefing images and fonts to D1X-Rebirth. 
 

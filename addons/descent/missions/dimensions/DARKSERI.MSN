@@ -1,0 +1,6 @@
+name = Dark Series-2LVLS	;any name you want
+type = normal		;can be "normal" or "anarchy".  Omitted means normal
+num_levels = 2		;number of normal levels
+dark001.rdl		;level filename 1
+dark002.rdl
+

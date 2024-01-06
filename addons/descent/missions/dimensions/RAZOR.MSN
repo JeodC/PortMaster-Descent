@@ -1,0 +1,6 @@
+name = Razor StarShip   ;any name you want
+type = normal           ;can be "normal" or "anarchy".  Omitted means normal
+num_levels = 1          ;number of normal levels
+razor.rdl               ;level filename 1
+;This level was created by Luke Schneider (Vizor) using Devil 1.0b
+

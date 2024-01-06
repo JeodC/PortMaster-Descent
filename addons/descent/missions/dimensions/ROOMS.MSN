@@ -1,0 +1,8 @@
+name = Rooms To Go      ;any name you want
+type = normal           ;can be "normal" or "anarchy".  Omitted means normal
+num_levels = 1          ;number of normal levels
+rooms.rdl               ;level filename 1
+;This Level was created by Arlo Aude(SPYDIR) with DEVIL 0.97.
+;The particular version associated with this .msn file
+;is so far not entirely complete. Enjoy what's here.
+

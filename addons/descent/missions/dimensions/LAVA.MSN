@@ -1,0 +1,6 @@
+name = !!!Lava!!!       ;any name you want
+type = normal           ;can be "normal" or "anarchy".  Omitted means normal
+num_levels = 1          ;number of normal levels
+lava.rdl                ;level filename 1
+                        ;This Level was created by Hacker (Chucky Burnett)
+                        ;using Devil 1.0

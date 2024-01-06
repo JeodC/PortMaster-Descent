@@ -1,0 +1,6 @@
+name = Joust with the Hulks  ;any name you want
+type = normal                ;can be "normal" or "anarchy".  Omitted means normal
+num_levels = 1               ;number of normal levels
+joust.rdl                    ;level filename 1
+;This Level was created by Chris Bond with Devil 1.0
+

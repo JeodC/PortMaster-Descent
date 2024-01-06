@@ -1,0 +1,9 @@
+name = 1st Trial        ;any name you want
+type = normal           ;can be "normal" or "anarchy".  Omitted means normal
+num_levels = 1          ;number of normal levels
+1sttrial.rdl
+;;;;
+; This Level was created by Christopher Thach (Nobody's Hero)
+; with DEVIL 0.97 & 0.99.                 Completed 04-15-95.
+; Built for 1 player only.
+;;;;

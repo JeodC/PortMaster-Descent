@@ -1,0 +1,12 @@
+name = Monster Bash     ;any name you want
+type = normal           ;can be "normal" or "anarchy".  Omitted means normal
+num_levels = 1          ;number of normal levels
+karlmb01.rdl              ;level filename 1
+
+; This is the first Descent level written by Karl Cookson, Using Devil V1.0.
+; If you have any comments, I'd like to here from you :-  Compuserve 100551,2653
+
+; If you know how I can get in touch with Achim Stremplat, the author of Devil,
+; I'd like to know, I only have have access to Compuserve.
+
+; If you want the walk-through solution, it will be available from me after 23/6/95.

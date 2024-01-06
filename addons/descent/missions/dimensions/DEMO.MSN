@@ -1,0 +1,6 @@
+name = Devil Demos    ;any name you want
+type = normal           ;can be "normal" or "anarchy".  Omitted means normal
+num_levels = 2          ;number of normal levels
+demo.rdl               ;level filename 1
+my_demo.rdl
+
