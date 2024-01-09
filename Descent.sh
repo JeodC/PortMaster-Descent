@@ -41,14 +41,8 @@ sed -i "s/^ResolutionY=480/ResolutionY=$DISPLAY_HEIGHT/g" $GAMEDIR/conf/.$GAME/d
 # Setup controls
 $ESUDO chmod 666 /dev/tty1
 $ESUDO chmod 666 /dev/uinput
-if [ -n "$(sed -n '22s/^\s*;-nojoystick//p' "$GAMEDIR/d1x.ini")" ]; then
-	# -nojoystick off, use sdl controls
-	$GPTOKEYB "$GAME" -c "conf/joy.gptk" & 
-    SDL_GAMECONTROLLERCONFIG="$sdl_controllerconfig"
-else
-	# -nojoystick on, use kbm controls
-	$GPTOKEYB "$GAME" -c "conf/kbm.gptk" & 
-fi  
+$GPTOKEYB "$GAME" -c "conf/joy.gptk" & 
+SDL_GAMECONTROLLERCONFIG="$sdl_controllerconfig"
 
 # Run the game
 ./$GAME -hogdir data 2>&1 | tee -a ./log.txt
