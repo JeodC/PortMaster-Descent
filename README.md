@@ -1,7 +1,7 @@
 # Introduction
 Descent 1 & 2 using DXX-Rebirth, ported to RK3326 and RK3566 devices. Runs via [PortMaster](https://portmaster.games).
 
-Latest PortMaster version built from commit [4efc4e9](https://github.com/dxx-rebirth/dxx-rebirth/commit/4efe4c9823c982d6c811bdb97aa09e8e2d02a090) with one compatibility fix in forked commit [f20bde9](https://github.com/JeodC/dxx-rebirth-compat/commit/f20bde9d31a7618491f1749c231bb047fa01f3e4).
+Latest PortMaster version built from commit [4efc4e9](https://github.com/dxx-rebirth/dxx-rebirth/commit/4efe4c9823c982d6c811bdb97aa09e8e2d02a090) with one compatibility fix in forked commit [c22de97](https://github.com/JeodC/dxx-rebirth/commit/c22de974133f407e6413dafde8c0769019881fec).
 
 # Add-On Files
 This port requires an add-on file to play music since libmodplug cannot load the .hmp files. Add-On files allow you to customize DXX-Rebirth to your liking. You might prefer certain soundcard midi audio, or even the PS1 soundtrack.
@@ -35,7 +35,7 @@ Note: The folder `/mnt/data/arm64` can be modified, for example to `/mnt/data/bo
 2. 	`apt -y install build-essential git wget python3 python3-pip python3-setuptools python3-wheel scons libglu1-mesa-dev pkg-config libpng-dev libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libphysfs-dev`
 
 ## Install and build dxx-rebirth
-1. 	`git clone https://github.com/dxx-rebirth/dxx-rebirth` // `git clone --branch compatibility https://github.com/JeodC/dxx-rebirth-compat` (Use the compat version for ArkOS etc)
+1. 	`git clone https://github.com/dxx-rebirth/dxx-rebirth` // `git clone --branch compatibility https://github.com/JeodC/dxx-rebirth` (Use the compatibility version for ArkOS etc)
 2. 	`cd dxx-rebirth` // `cd dxx-rebirth-compat`  
 3. 	`scons sdl2=1 sdlmixer=1 opengl=1`
 
