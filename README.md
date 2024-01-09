@@ -26,7 +26,7 @@ Missions can be found and downloaded from [Descent Mission Archive](https://sect
 7.	`sudo docker run --rm --privileged multiarch/qemu-user-static --reset -p yes`
 8.	`sudo qemu-debootstrap --arch arm64 bookworm /mnt/data/arm64 http://deb.debian.org/debian/`
 
-Note: Bookworm uses gcc-12. For compatibility with older systems such as ArkOS, use bullseye and git clone the dxx-rebirth-compat repository.  
+Note: Bookworm uses gcc-12. For compatibility with older systems such as ArkOS, use bullseye and git clone the dxx-rebirth-compat repository with the `compatibility` branch.  
 
 Note: The folder `/mnt/data/arm64` can be modified, for example to `/mnt/data/bookworm-arm64`. This is useful if you like to maintain multiple chroots.
 
