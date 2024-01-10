@@ -83,12 +83,14 @@ Add-Ons (.dxa files) such as different soundtracks from various soundcards and g
 |D-PAD Left|Backspace|
 
 ## Secret Levels
-Level 3 & 4     -> -> Secret Level 1  
-Level 5 & 8     -> -> Secret Level 2  
-Level 12        -> -> Secret Level 3  
-Level 14        -> -> Secret Level 4
-Level 17 & 20   -> -> Secret Level 5  
-Level 21 & 24   -> -> Secret Level 6  
+|Origin Level|Leads To|
+|--|--|
+|Level 3 & 4|Secret Level 1|
+|Level 5 & 8|Secret Level 2|
+|Level 12|Secret Level 3| 
+|Level 14|Secret Level 4|
+|Level 17 & 20|Secret Level 5|
+|Level 21 & 24|Secret Level 6|
 
 ## Thanks
 Cebion  
