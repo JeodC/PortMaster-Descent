@@ -4,7 +4,7 @@ Descent 1 & 2 using DXX-Rebirth, ported to RK3326 and RK3566 devices. Runs via [
 Latest PortMaster version built from commit [4efc4e9](https://github.com/dxx-rebirth/dxx-rebirth/commit/4efe4c9823c982d6c811bdb97aa09e8e2d02a090) with one compatibility fix in forked commit [c22de97](https://github.com/JeodC/dxx-rebirth/commit/c22de974133f407e6413dafde8c0769019881fec).
 
 # Add-On Files
-This port requires an add-on file to play music since libmodplug cannot load the .hmp files. Add-On files allow you to customize DXX-Rebirth to your liking. You might prefer certain soundcard midi audio, or even the PS1 soundtrack.
+Add-On files allow you to customize DXX-Rebirth to your liking. You might prefer certain soundcard midi audio, or even the PS1 soundtrack.
 To use an add-on, simply drop the .dxa file into the `descent/data` folder. These dxa files are just .zip files, so you can open them and modify however you like.
 
 There are several soundtrack addons to choose from as well as missions.  
