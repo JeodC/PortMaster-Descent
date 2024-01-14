@@ -4,7 +4,7 @@ Descent 1 & 2 using DXX-Rebirth, ported to RK3326 and RK3566 devices. Runs via [
 Latest PortMaster version built from commit [4efc4e9](https://github.com/dxx-rebirth/dxx-rebirth/commit/4efe4c9823c982d6c811bdb97aa09e8e2d02a090) with one compatibility fix in forked commit [c22de97](https://github.com/JeodC/dxx-rebirth/commit/c22de974133f407e6413dafde8c0769019881fec).
 
 # Add-On Files
-This port requires an add-on file to play music since libmodplug cannot load the .hmp files. Add-On files allow you to customize DXX-Rebirth to your liking. You might prefer certain soundcard midi audio, or even the PS1 soundtrack.
+Add-On files allow you to customize DXX-Rebirth to your liking. You might prefer certain soundcard midi audio, or even the PS1 soundtrack.
 To use an add-on, simply drop the .dxa file into the `descent/data` folder. These dxa files are just .zip files, so you can open them and modify however you like.
 
 There are several soundtrack addons to choose from as well as missions.  
@@ -26,7 +26,7 @@ Missions can be found and downloaded from [Descent Mission Archive](https://sect
 7.	`sudo docker run --rm --privileged multiarch/qemu-user-static --reset -p yes`
 8.	`sudo qemu-debootstrap --arch arm64 bookworm /mnt/data/arm64 http://deb.debian.org/debian/`
 
-Note: Bookworm uses gcc-12. For compatibility with older systems such as ArkOS, use bullseye and git clone the dxx-rebirth-compat repository with the `compatibility` branch.  
+Note: Bookworm uses gcc-12. For compatibility with older systems such as ArkOS, use bullseye and git clone this dxx-rebirth repository with the `compatibility` branch.  
 
 Note: The folder `/mnt/data/arm64` can be modified, for example to `/mnt/data/bookworm-arm64`. This is useful if you like to maintain multiple chroots.
 
@@ -36,7 +36,7 @@ Note: The folder `/mnt/data/arm64` can be modified, for example to `/mnt/data/bo
 
 ## Install and build dxx-rebirth
 1. 	`git clone https://github.com/dxx-rebirth/dxx-rebirth` // `git clone --branch compatibility https://github.com/JeodC/dxx-rebirth` (Use the compatibility version for ArkOS etc)
-2. 	`cd dxx-rebirth` // `cd dxx-rebirth-compat`  
+2. 	`cd dxx-rebirth`  
 3. 	`scons -j$(nproc) sdl2=1 sdlmixer=1 opengl=1`
 
 Retrieve your build from `\\wsl.localhost\Ubuntu\mnt\data\arm64\dxx-rebirth\build` // `\\wsl.localhost\Ubuntu\mnt\data\arm64\dxx-rebirth-compat\build`  

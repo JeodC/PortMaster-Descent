@@ -82,6 +82,11 @@ Add-Ons (.dxa files) such as different soundtracks from various soundcards and g
 |SELECT + Y|9|
 |D-PAD Left|Backspace|
 
+## Secret Levels
+Level 10 -> -> Secret Level 1  
+Level 21 -> -> Secret Level 2  
+Level 23 -> -> Secret Level 3  
+
 ## Thanks
 Cebion  
 romadu  
