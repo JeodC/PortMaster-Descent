@@ -20,7 +20,7 @@ GAMEDIR="/$directory/ports/descent"
 cd $GAMEDIR
 
 $ESUDO rm -rf ~/.$GAME
-ln -sfv $GAMEDIR/conf/.$GAME ~/.$GAME
+ln -sfv $GAMEDIR/conf/.$GAME ~/
 
 export LIBGL_FB=4
 export LD_LIBRARY_PATH=$GAMEDIR/lib:/usr/lib
