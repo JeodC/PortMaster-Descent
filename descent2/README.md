@@ -34,16 +34,15 @@ Descent I & II: Definitive Edition came with some extra content not available on
 This extra content can be placed in the data/missions folder for both Descent and Descent 2. If done correctly you'll see a new submenu when selecting New Game.
 
 ## Configuration
-Ini files `d1x.ini` and `d2x.ini` are configurable. The port features keyboard emulation and native SDL joystick controls.
+Ini files `d1x.ini` and `d2x.ini` are configurable. The port features native SDL joystick controls. Function keys and others can be customized in `config/joy.gptk`.
 
-You may rename `Player.plr` and `Player.plx` in the conf folder for a different multiplayer display name. If you do so, please modify the `d1x.ini` or `d2x.ini` file to reflect this change.
+You may rename `Player.plr` and `Player.plx` in the config folder for a different multiplayer display name. If you do so, you can modify the `d1x.ini` or `d2x.ini` file to reflect this change and autoselect your pilot.
 
 Cheats can be found and modified in `cheats.txt`. To turn a cheat on, change the 0 to 1. To turn it off, change 1 to 0.
 
 Add-Ons (.dxa files) such as different soundtracks from various soundcards and game versions, can be found at the project's [GitHub Repo](https://github.com/JeodC/Portmaster-Descent)
 
 ## Default Gameplay Controls
-
 | Button | Action |
 |--|--| 
 |A|Primary Fire|
@@ -67,7 +66,6 @@ Add-Ons (.dxa files) such as different soundtracks from various soundcards and g
 |START + LEFT|Activate Cheats|
 
 ## Level Select Controls
-
 | Button | Action |
 |--|--| 
 |B|0|
@@ -83,6 +81,8 @@ Add-Ons (.dxa files) such as different soundtracks from various soundcards and g
 |D-PAD Left|Backspace|
 
 ## Secret Levels
+Some levels have portals which, when used, will lead to a secret level. These levels are fairly challenging. If a secret level is cleared, the portals in future levels will not work.
+
 |Origin Level|Leads To|
 |--|--|
 |Level 3 & 4|Secret Level 1|
