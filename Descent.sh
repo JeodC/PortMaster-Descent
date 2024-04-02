@@ -1,9 +1,13 @@
 #!/bin/bash
 
+XDG_DATA_HOME=${XDG_DATA_HOME:-$HOME/.local/share}
+
 if [ -d "/opt/system/Tools/PortMaster/" ]; then
   controlfolder="/opt/system/Tools/PortMaster"
 elif [ -d "/opt/tools/PortMaster/" ]; then
   controlfolder="/opt/tools/PortMaster"
+elif [ -d "$XDG_DATA_HOME/PortMaster/" ]; then
+  controlfolder="$XDG_DATA_HOME/PortMaster"
 else
   controlfolder="/roms/ports/PortMaster"
 fi
@@ -19,10 +23,15 @@ GAME="d1x-rebirth"
 
 cd $GAMEDIR
 
+if [ -f "${controlfolder}/libgl_${CFW_NAME}.txt" ]; then 
+  source "${controlfolder}/libgl_${CFW_NAME}.txt"
+else
+  source "${controlfolder}/libgl_default.txt"
+fi
+
 $ESUDO rm -rf ~/.$GAME
 ln -sfv $GAMEDIR/config ~/.$GAME
 
-export LIBGL_FB=4
 export LD_LIBRARY_PATH="$GAMEDIR/libs.$DEVICE_ARCH:$LD_LIBRARY_PATH"
 export SDL_FORCE_SOUNDFONTS=1
 export SDL_SOUNDFONTS="$GAMEDIR/soundfont.sf2"
