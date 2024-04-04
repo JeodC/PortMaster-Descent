@@ -31,5 +31,8 @@ Dimensions was an unauthorized distribution disc from Lasersoft that contains fa
 ## Other
 In the `other` folder you'll find `d1xr-hires.dxa` which adds upscaled (640×480) backgrounds, briefing images and fonts to D1X-Rebirth. 
 
+## Shareware
+The `shareware` folder contains the official Descent shareware demo, a free release by Parallax Software. It contains the first seven levels of the game.  
+
 ## Additional Add-Ons
 Missions can be found and downloaded from [Descent Mission Archive](https://sectorgame.com/dxma/)

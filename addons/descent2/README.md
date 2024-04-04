@@ -22,5 +22,8 @@ Some of these files are large and are therefore split into archive parts. Simply
 ## Missions
 Descent Maximum is the PS1 version of Descent 2. Rather than a straight port, it contains 36 new levels. Descent: Vertigo is an extension of the original Descent 2 campaign. Place in `descent2/data/missions`.
 
+## Shareware
+In the `shareware` folder you'll find the Descent 2 demo files. These contain the first three levels of the game. Version differences are explained and showcased at [The Cutting Room Floor](https://tcrf.net/Proto:Descent_II_(PC)).
+
 ## Additional Add-Ons
 Missions can be found and downloaded from [Descent Mission Archive](https://sectorgame.com/dxma/)
