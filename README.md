@@ -34,7 +34,7 @@ Note: The folder `/mnt/data/arm64` can be modified, for example to `/mnt/data/bo
 3. 	`ln -s /usr/lib/aarch64-linux-gnu/libGLESv1_CM.so /usr/lib/aarch64-linux-gnu/libGLES_CM.so` for arm64 or `ln -s /usr/lib/arm-linux-gnueabihf/libGLESv1_CM.so /usr/lib/arm-linux-gnueabihf/libGLES_CM.so` for armhf. Install with `apt -y install libgles1` if missing.
 
 ## Install and build dxx-rebirth
-1. 	`git clone https://github.com/dxx-rebirth/dxx-rebirth`
+1. 	`git clone https://github.com/dxx-rebirth/dxx-rebirth` // `git clone --branch compatibility https://github.com/JeodC/dxx-rebirth` (Use the compatibility version for ArkOS etc)
 2. 	`cd dxx-rebirth`  
 3. 	`scons -j$(nproc) sdl2=1 sdlmixer=1 opengles=1`
 
