@@ -31,7 +31,7 @@ Note: The folder `/mnt/data/arm64` can be modified, for example to `/mnt/data/bo
 ## Enter chroot and install dependencies
 1. 	`sudo chroot /mnt/data/arm64/`
 2. 	`apt -y install build-essential git wget python3 python3-pip python3-setuptools python3-wheel scons libglu1-mesa-dev pkg-config libpng-dev libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libphysfs-dev`
-3. 	`ln -s /usr/lib/aarch64-linux-gnu/libGLESv2_CM.so /usr/lib/aarch64-linux-gnu/libGLES_CM.so` for arm64 or `ln -s /usr/lib/arm-linux-gnueabihf/libGLESv2_CM.so /usr/lib/arm-linux-gnueabihf/libGLES_CM.so` for armhf. Install with `apt -y install libgles2` if missing.
+3. 	`ln -s /usr/lib/aarch64-linux-gnu/libGLESv1_CM.so /usr/lib/aarch64-linux-gnu/libGLES_CM.so` for arm64 or `ln -s /usr/lib/arm-linux-gnueabihf/libGLESv1_CM.so /usr/lib/arm-linux-gnueabihf/libGLES_CM.so` for armhf. Install with `apt -y install libgles1` if missing.
 
 ## Install and build dxx-rebirth
 1. 	`git clone https://github.com/dxx-rebirth/dxx-rebirth` // `git clone --branch compatibility https://github.com/JeodC/dxx-rebirth` (Use the compatibility version for ArkOS etc)
