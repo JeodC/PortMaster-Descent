@@ -29,7 +29,7 @@ Levels of the World is an official add-on with all of the entries from a level d
 Dimensions was an unauthorized distribution disc from Lasersoft that contains fan-made levels. It was not authorized by Interplay and Lasersoft was sued for trademark infringement.  
 
 ## Other
-In the `other` folder you'll find `d1xr-hires.dxa` which adds upscaled (640×480) backgrounds, briefing images and fonts to D1X-Rebirth. 
+In the `other` folder you'll find `d1xr-hires.dxa` which adds upscaled (640×480) backgrounds, briefing images and fonts to D1X-Rebirth. A subfolder `mac` contains the `.dxa` files necessary if you're using the macintosh `descent.hog` and `descent.pig` files.
 
 ## Shareware
 The `shareware` folder contains the official Descent shareware demo, a free release by Parallax Software. It contains the first seven levels of the game.  
