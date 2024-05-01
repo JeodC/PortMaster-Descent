@@ -1,10 +1,10 @@
 # Add-On Files
 Add-On files allow you to customize DXX-Rebirth to your liking. You might prefer certain soundcard midi audio, or even the PS1 soundtrack.
-To use an add-on, simply drop the .dxa file into the `descent/data` folder. These dxa files are just .zip files, so you can open them and modify however you like.
+To use an add-on, simply drop the `*.dxa` file into the `descent/data` folder. These dxa files are just .zip files, so you can open them and modify however you like.
 
 Some of these files are large and are therefore split into archive parts. Use something like 7zip to unarchive them.
 
-Usage: .dxa files go in the `descent/data` folder. Levels of the World's entire directory can be placed in `descent/data/missions` or you can cherry pick your favorites.
+Usage: `*.dxa` files go in the `descent/data` folder. Levels of the World's entire directory can be placed in `descent/data/missions` or you can cherry pick your favorites.
 
 ## Music
 | Description | File |  
@@ -24,7 +24,7 @@ Usage: .dxa files go in the `descent/data` folder. Levels of the World's entire 
 ## Missions
 Descent I & II: The Definitive Collection came packaged with 20 bonus levels by Parallax Software.
 
-Levels of the World is an official add-on with all of the entries from a level design competition held by Interplay in 1995, plus one level designed by Parallax Software. It contains Parallax Software's top 10 picks, 90 singleplayer and 23 multiplayer levels Total 123 levels.  
+Levels of the World is an official add-on with all of the entries from a level design competition held by Interplay in 1995, plus one level designed by Parallax Software. It contains Parallax Software's top 10 picks, 90 singleplayer and 23 multiplayer levels, for a total of 123 levels.  
 
 Dimensions was an unauthorized distribution disc from Lasersoft that contains fan-made levels. It was not authorized by Interplay and Lasersoft was sued for trademark infringement.  
 

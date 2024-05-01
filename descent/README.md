@@ -4,7 +4,8 @@ The MS-DOS games by Parallax Software ported with DXX-Rebirth.
 ## Installation
 Unzip to ports folder e.g. `/roms/ports/`. Ready to play with shareware and demo files. To upgrade to full game, purchase on Steam/GOG and then add .hog and .pig files to `descent/data` and `descent2/data`.
 
-Filelist for full versions:  
+Filelist for full versions:
+```
 ├── descent/data  
 │   ├── missions/    
 │   │ └── bonuscontent   
@@ -28,7 +29,8 @@ Filelist for full versions:
 │   └── intro-h.mvl (optional)  
 │   └── other-h.mvl (optional)  
 │   └── robots-h.mvl (optional)  
-│   └── d2x-h.mvl (optional)  
+│   └── d2x-h.mvl (optional)
+```
 
 Descent I & II: Definitive Edition came with some extra content not available on GOG or Steam. These include Levels of the World (Descent 1), 29 Bonus Levels by Parallax Software (Descent 1), and the Descent 2: Vertigo expansion pack. 
 This extra content can be placed in the data/missions folder for both Descent and Descent 2. If done correctly you'll see a new submenu when selecting New Game.
@@ -45,22 +47,22 @@ Add-Ons (.dxa files) such as different soundtracks from various soundcards and g
 ## Default Gameplay Controls
 | Button | Action |
 |--|--| 
-|A|Primary Fire|
+|A||
 |B|Deploy Bomb|
-|X|Secondary Fire|
+|X|Rear View|
 |Y|Fire Flare|
-|L1|Reverse|
-|L2|Cycle Secondary Weapon|
+|L1|Fire Secondary Weapon|
+|L2|Cycle Primary Weapon|
 |L3|Not Set|
-|R1|Accelerate|
+|R1|Fire Primary Weapon|
 |R2|Scroll Primary Weapon|
 |R3|Not Set|
 |D-PAD UP|Look Up|
 |D-PAD DOWN|Look Down|
 |D-PAD LEFT|Turn Left|
 |D-PAD RIGHT|Turn Right|
-|LEFT ANALOG|Look Around|
-|RIGHT ANALOG|Slide Up/Down & Bank Left/Right|
+|LEFT ANALOG|Throttle|
+|RIGHT ANALOG|Pitch & Turn|
 |SELECT|Back / Escape|
 |START|Start / Accept / Enter|
 |START + LEFT|Activate Cheats|
