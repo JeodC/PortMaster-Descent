@@ -24,7 +24,7 @@ Missions can be found and downloaded from [Descent Mission Archive](https://sect
 5.	`sudo add-apt-repository "deb [arch=$(dpkg --print-architecture)] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"`
 6.	`sudo apt install docker-ce -y`
 7.	`sudo docker run --rm --privileged multiarch/qemu-user-static --reset -p yes`
-8.	`sudo qemu-debootstrap --arch arm64 bookworm /mnt/data/arm64 http://deb.debian.org/debian/`
+8.	`sudo qemu-debootstrap --arch arm64 bookworm /mnt/data/arm64 http://deb.debian.org/debian/` -- Use bullseye instead of bookworm if building compatibility.
 
 Note: The folder `/mnt/data/arm64` can be modified, for example to `/mnt/data/bookworm-arm64`. This is useful if you like to maintain multiple chroots.
 
