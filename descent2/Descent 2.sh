@@ -51,7 +51,7 @@ sed -i "s/^AspectY=.*/AspectY=$ASPECT_X/g" $GAMEDIR/config/descent.cfg
 $ESUDO chmod 666 /dev/tty1
 $ESUDO chmod 666 /dev/uinput
 
-if [ $CFW_NAME == "ArkOS" ]; then
+if [ "$CFW_NAME" == 'ArkOS' ] || [ "$CFW_NAME" == 'ArkOS wuMMLe' ] || [ "$CFW_NAME" == "knulli" ]; then
 	$GPTOKEYB "$GAME.compat" -c "config/joy.gptk" & 
 	SDL_GAMECONTROLLERCONFIG="$sdl_controllerconfig"
 	./$GAME.compat -hogdir data
