@@ -12,7 +12,7 @@ There are several soundtrack addons to choose from as well as missions.
 Some of these files are large and are therefore split into archive parts. Use something like 7zip to unarchive them.
 
 ## Additional Add-Ons
-Missions can be found and downloaded from [Descent Mission Archive](https://sectorgame.com/dxma/)
+Missions can be found and downloaded from [Descent Mission Archive](https://sectorgame.com/dxma/).
 
 # Building from source dxx-rebirth
 
