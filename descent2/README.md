@@ -45,22 +45,22 @@ Add-Ons (.dxa files) such as different soundtracks from various soundcards and g
 ## Default Gameplay Controls
 | Button | Action |
 |--|--| 
-|A|Primary Fire|
+|A|Afterburner|
 |B|Deploy Bomb|
-|X|Secondary Fire|
+|X|Rear View|
 |Y|Fire Flare|
-|L1|Reverse|
-|L2|Cycle Secondary Weapon|
+|L1|Fire Secondary Weapon|
+|L2|Cycle Primary Weapon|
 |L3|Not Set|
-|R1|Accelerate|
+|R1|Fire Primary Weapon|
 |R2|Scroll Primary Weapon|
 |R3|Not Set|
 |D-PAD UP|Look Up|
 |D-PAD DOWN|Look Down|
 |D-PAD LEFT|Turn Left|
 |D-PAD RIGHT|Turn Right|
-|LEFT ANALOG|Look Around|
-|RIGHT ANALOG|Slide Up/Down & Bank Left/Right|
+|LEFT ANALOG|Throttle|
+|RIGHT ANALOG|Pitch & Turn|
 |SELECT|Back / Escape|
 |START|Start / Accept / Enter|
 |START + LEFT|Activate Cheats|
