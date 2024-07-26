@@ -45,7 +45,7 @@ y_hk = 9
 l3 = \"
 r3 = \"
 
-# Use mouse movement for left analog stick
+# Defer to SDL controls for analog sticks
 left_analog_up = \"
 left_analog_down = \"
 left_analog_left = \"
