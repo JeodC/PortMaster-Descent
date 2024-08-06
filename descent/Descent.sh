@@ -51,7 +51,23 @@ sed -i "s/^AspectY=.*/AspectY=$ASPECT_X/g" $GAMEDIR/config/descent.cfg
 $ESUDO chmod 666 /dev/tty1
 $ESUDO chmod 666 /dev/uinput
 
-if [ "$CFW_NAME" == 'ArkOS' ] || [ "$CFW_NAME" == 'ArkOS wuMMLe' ] || [ "$CFW_NAME" == "knulli" ]; then
+# List of compatibility firmwares
+CFW_NAMES="ArkOS ArkOS wuMMLe ArkOS AeUX knulli TrimUI"
+
+# Check if the current CFW name is in the list
+contains() {
+    local value="$1"
+    shift
+    for item in "$@"; do
+        if [ "$item" = "$value" ]; then
+            return 0
+        fi
+    done
+    return 1
+}
+
+# If it's in the list use the compatibility binary
+if contains "$CFW_NAME" $CFW_NAMES; then
 	$GPTOKEYB "$GAME.compat" -c "config/joy.gptk" & 
 	SDL_GAMECONTROLLERCONFIG="$sdl_controllerconfig"
 	./$GAME.compat -hogdir data
