@@ -45,6 +45,8 @@ export SDL_GAMECONTROLLERCONFIG="$sdl_controllerconfig"
 export SDL_FORCE_SOUNDFONTS=1
 export SDL_SOUNDFONTS="$GAMEDIR/soundfont.sf2"
 export TEXTINPUTPRESET=$CHEATS
+export TEXTINPUTINTERACTIVE="Y"
+export TEXTINPUTNUMBERSONLY="Y"
 
 # Edit .cfg file with updated resolution and aspect ratio
 sed -i "s/^ResolutionX=[0-9]\{1,4\}/ResolutionX=$DISPLAY_WIDTH/g" "$GAMEDIR/config/descent.cfg"
@@ -55,6 +57,8 @@ sed -i "s/^AspectY=[0-9]\{1,2\}/AspectY=$ASPECT_X/g" "$GAMEDIR/config/descent.cf
 # Use compatibility binary if low glibc
 if [ $CFW_GLIBC -lt 234 ]; then
 	GAME="$GAME.compat"
+else
+    GAME="$GAME.$DEVICE_ARCH"
 fi
 
 # Run game
