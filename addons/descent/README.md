@@ -29,10 +29,22 @@ Levels of the World is an official add-on with all of the entries from a level d
 Dimensions was an unauthorized distribution disc from Lasersoft that contains fan-made levels. It was not authorized by Interplay and Lasersoft was sued for trademark infringement.  
 
 ## Other
-In the `other` folder you'll find `d1xr-hires.dxa` which adds upscaled (640×480) backgrounds, briefing images and fonts to D1X-Rebirth. A subfolder `mac` contains the `.dxa` files necessary if you're using the macintosh `descent.hog` and `descent.pig` files.
+In the `other` folder you'll find the following:
+
+- `d1xr-hires.dxa` which adds upscaled (640×480) backgrounds, briefing images and fonts to D1X-Rebirth.
+- `d1xr-ws-menus.dxa` which corrects the menu aspect ratios on widescreen devices, so the logos aren't stretched. You can use this instead of `d1xr-hires.dxa` if you prefer corrected logos.
+- A subfolder `mac` contains the `.dxa` files necessary if you're using the macintosh data files.
+    - The `descent.pig` file in this folder is the mac version with 640x480 textures.
 
 ## Shareware
 The `shareware` folder contains the official Descent shareware demo, a free release by Parallax Software. It contains the first seven levels of the game.  
 
 ## Additional Add-Ons
-Missions can be found and downloaded from [Descent Mission Archive](https://sectorgame.com/dxma/)
+Missions can be found and downloaded from [Descent Mission Archive](https://sectorgame.com/dxma)
+
+## Thanks
+- Most music addons created by Zico
+- D1X-Hires and most music addons created by Zico
+- D2X-XL music addon created with samples from https://www.descent2.de
+- Widescreen menu dxa created by DescentMax7930
+- Authors of other dxa improvements will be credited once known
