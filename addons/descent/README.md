@@ -9,6 +9,7 @@ Usage: `*.dxa` files go in the `descent/data` folder. Levels of the World's enti
 ## Music
 | Description | File |  
 |--|--| 
+|Arachno MIDI|d1midi-arachno.dxa| 
 |Roland Sound Canvas MIDI|d1midi-rolandsc.dxa| 
 |Roland Sound Canvas SC-55 MIDI|d1xr-sc55-music.dxa|  
 |YMF262 OPL3 MIDI|d1xr-opl3-music.dxa|  

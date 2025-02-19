@@ -9,6 +9,7 @@ Some of these files are large and are therefore split into archive parts. Simply
 |--|--| 
 |SC-55 MIDI|d2xr-sc55-music.dxa|  
 |OPL3 MIDI|d2xr-opl3-music.dxa|  
+|Arachno MIDI|d1midi-arachno.dxa| 
 |AWE32 MIDI|d2midi-awe32.dxa|  
 |AWE64 MIDI|d2midi-awe64.dxa|  
 |Ensoniq 2M MIDI|d2midi-ensoniq2m.dxa|  
